@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<rect x="0" y="0" width="1600" height="1000" fill="#ffffff"/>
+<defs>
+<pattern id="diagHatchA" patternUnits="userSpaceOnUse" width="8" height="8" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#777" stroke-width="2"/></pattern>
+</defs>
+<line x1="120.00" y1="700.00" x2="1560.00" y2="700.00" stroke="#d0d0d0" stroke-width="1.00" />
+<text x="108.00" y="705.00" font-size="14" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >0.000</text>
+<line x1="120.00" y1="601.67" x2="1560.00" y2="601.67" stroke="#d0d0d0" stroke-width="1.00" />
+<text x="108.00" y="606.67" font-size="14" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >0.186</text>
+<line x1="120.00" y1="503.33" x2="1560.00" y2="503.33" stroke="#d0d0d0" stroke-width="1.00" />
+<text x="108.00" y="508.33" font-size="14" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >0.372</text>
+<line x1="120.00" y1="405.00" x2="1560.00" y2="405.00" stroke="#d0d0d0" stroke-width="1.00" />
+<text x="108.00" y="410.00" font-size="14" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >0.557</text>
+<line x1="120.00" y1="306.67" x2="1560.00" y2="306.67" stroke="#d0d0d0" stroke-width="1.00" />
+<text x="108.00" y="311.67" font-size="14" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >0.743</text>
+<line x1="120.00" y1="208.33" x2="1560.00" y2="208.33" stroke="#d0d0d0" stroke-width="1.00" />
+<text x="108.00" y="213.33" font-size="14" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >0.929</text>
+<line x1="120.00" y1="110.00" x2="1560.00" y2="110.00" stroke="#d0d0d0" stroke-width="1.00" />
+<text x="108.00" y="115.00" font-size="14" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >1.115</text>
+<line x1="120.00" y1="110.00" x2="120.00" y2="700.00" stroke="#111" stroke-width="2.00" />
+<line x1="120.00" y1="700.00" x2="1560.00" y2="700.00" stroke="#111" stroke-width="2.00" />
+<rect x="131.52" y="173.21" width="48.96" height="526.79" fill="url(#diagHatchA)" stroke="#111" stroke-width="2.80" />
+<text x="156.00" y="165.21" font-size="14" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" >Top 1</text>
+<text x="156.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 156.00 722.00)">VAGMAT</text>
+<rect x="203.52" y="173.36" width="48.96" height="526.64" fill="url(#diagHatchA)" stroke="#111" stroke-width="2.80" />
+<text x="228.00" y="165.36" font-size="14" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" >Top 2</text>
+<text x="228.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 228.00 722.00)">XAFFAN</text>
+<rect x="275.52" y="173.64" width="48.96" height="526.36" fill="url(#diagHatchA)" stroke="#111" stroke-width="2.80" />
+<text x="300.00" y="165.64" font-size="14" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" >Top 3</text>
+<text x="300.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 300.00 722.00)">XAFFIV</text>
+<rect x="347.52" y="173.77" width="48.96" height="526.23" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="372.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 372.00 722.00)">XAFFER</text>
+<rect x="419.52" y="173.78" width="48.96" height="526.22" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="444.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 444.00 722.00)">XAFFOB</text>
+<rect x="491.52" y="174.14" width="48.96" height="525.86" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="516.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 516.00 722.00)">LURRIA</text>
+<rect x="563.52" y="174.22" width="48.96" height="525.78" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="588.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 588.00 722.00)">RICBEM</text>
+<rect x="635.52" y="174.45" width="48.96" height="525.55" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="660.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 660.00 722.00)">VAGMEX</text>
+<rect x="707.52" y="174.45" width="48.96" height="525.55" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="732.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 732.00 722.00)">UJILAA</text>
+<rect x="779.52" y="174.85" width="48.96" height="525.15" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="804.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 804.00 722.00)">VEBHUG</text>
+<rect x="851.52" y="175.07" width="48.96" height="524.93" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="876.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 876.00 722.00)">EDUVOO</text>
+<rect x="923.52" y="175.14" width="48.96" height="524.86" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="948.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 948.00 722.00)">HABRAF</text>
+<rect x="995.52" y="175.26" width="48.96" height="524.74" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="1020.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 1020.00 722.00)">RAYMOV</text>
+<rect x="1067.52" y="175.28" width="48.96" height="524.72" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="1092.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 1092.00 722.00)">Not Applicable</text>
+<rect x="1139.52" y="175.47" width="48.96" height="524.53" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="1164.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 1164.00 722.00)">MEHMET</text>
+<rect x="1211.52" y="175.49" width="48.96" height="524.51" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="1236.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 1236.00 722.00)">UQOLUJ01</text>
+<rect x="1283.52" y="175.56" width="48.96" height="524.44" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="1308.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 1308.00 722.00)">Not Applicable</text>
+<rect x="1355.52" y="175.85" width="48.96" height="524.15" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="1380.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 1380.00 722.00)">ANUGEW</text>
+<rect x="1427.52" y="175.89" width="48.96" height="524.11" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="1452.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 1452.00 722.00)">JARMEU</text>
+<rect x="1499.52" y="175.93" width="48.96" height="524.07" fill="#bfbfbf" stroke="#111" stroke-width="1.10" />
+<text x="1524.00" y="722.00" font-size="12" text-anchor="end" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-60 1524.00 722.00)">ICAQIO</text>
+<text x="800.00" y="50.00" font-size="30" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" >Figure A: Random Forest Ranking Overview (Top 20)</text>
+<text x="800.00" y="955.00" font-size="20" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" >MOF (CSD Refcode)</text>
+<text x="36.00" y="405.00" font-size="20" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 36 405.00)">Mean Normalized Rank</text>
+</svg>

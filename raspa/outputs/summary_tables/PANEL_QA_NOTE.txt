@@ -1,0 +1,16 @@
+Panel Q&A Note (concise defense answers)
+
+Q: Why are XAFFAN and XAFFIV N/A in HyMARC?
+A: Because they are not part of the true HyMARC GCMC benchmark set. They are benchmark-absent cases, so assigning benchmark values to them would be incorrect.
+
+Q: Why can you still present them?
+A: They are valid ML-selected top candidates from the RF ranking, and I validated them using my own corrected GCMC simulations. Benchmark absence does not invalidate candidate-level simulation validation.
+
+Q: Why is VAGMAT the main benchmark case?
+A: VAGMAT is the key overlap MOF between my top-3 ML selections and the true HyMARC benchmark dataset, so it is the appropriate case for direct benchmark comparison.
+
+Q: Why were your GCMC values corrected?
+A: Earlier mg/g outputs were affected by a resolved H_h2 mass-conversion issue. The final thesis uses corrected usable capacities derived from mol/kg-based values to ensure accurate reporting.
+
+Q: Does this weaken the thesis?
+A: No. It strengthens the methodological clarity. The thesis now cleanly separates benchmark comparison (overlap MOFs only) from independent GCMC validation (benchmark-absent ML-selected candidates), which is the correct scientific interpretation.

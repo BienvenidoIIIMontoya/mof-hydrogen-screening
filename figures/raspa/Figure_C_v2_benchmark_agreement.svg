@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1300" viewBox="0 0 1700 1300">
+<rect x="0" y="0" width="1700" height="1300" fill="#ffffff"/>
+<text x="850.00" y="46.00" font-family="Arial, Helvetica, sans-serif" font-size="30" text-anchor="middle" font-weight="bold" fill="#111" >Figure C v2: Benchmark Agreement (Mine vs HyMARC)</text>
+<line x1="110.00" y1="610.00" x2="815.00" y2="610.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="110.00" y1="120.00" x2="110.00" y2="610.00" stroke="#ececec" stroke-width="1.00" />
+<text x="100.00" y="614.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >0.00</text>
+<text x="110.00" y="628.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >0.00</text>
+<line x1="110.00" y1="512.00" x2="815.00" y2="512.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="251.00" y1="120.00" x2="251.00" y2="610.00" stroke="#ececec" stroke-width="1.00" />
+<text x="100.00" y="516.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >2.88</text>
+<text x="251.00" y="628.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >2.88</text>
+<line x1="110.00" y1="414.00" x2="815.00" y2="414.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="392.00" y1="120.00" x2="392.00" y2="610.00" stroke="#ececec" stroke-width="1.00" />
+<text x="100.00" y="418.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >5.75</text>
+<text x="392.00" y="628.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >5.75</text>
+<line x1="110.00" y1="316.00" x2="815.00" y2="316.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="533.00" y1="120.00" x2="533.00" y2="610.00" stroke="#ececec" stroke-width="1.00" />
+<text x="100.00" y="320.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >8.63</text>
+<text x="533.00" y="628.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >8.63</text>
+<line x1="110.00" y1="218.00" x2="815.00" y2="218.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="674.00" y1="120.00" x2="674.00" y2="610.00" stroke="#ececec" stroke-width="1.00" />
+<text x="100.00" y="222.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >11.50</text>
+<text x="674.00" y="628.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >11.50</text>
+<line x1="110.00" y1="120.00" x2="815.00" y2="120.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="815.00" y1="120.00" x2="815.00" y2="610.00" stroke="#ececec" stroke-width="1.00" />
+<text x="100.00" y="124.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >14.38</text>
+<text x="815.00" y="628.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >14.38</text>
+<line x1="110.00" y1="120.00" x2="110.00" y2="610.00" stroke="#111" stroke-width="1.80" />
+<line x1="110.00" y1="610.00" x2="815.00" y2="610.00" stroke="#111" stroke-width="1.80" />
+<text x="462.50" y="104.00" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#111" >UG_PS</text>
+<text x="462.50" y="654.00" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" fill="#111" >HyMARC</text>
+<text x="44.00" y="365.00" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" fill="#111" transform="rotate(-90 44.00 365.00)">Mine</text>
+<line x1="110.00" y1="610.00" x2="815.00" y2="120.00" stroke="#666" stroke-width="1.50" stroke-dasharray="6,4"/>
+<circle cx="110.49" cy="608.84" r="4.50" fill="#777" stroke="#111" stroke-width="1.00" />
+<text x="117.49" y="601.84" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111" >CAXPIC</text>
+<circle cx="110.00" cy="609.86" r="4.50" fill="#777" stroke="#111" stroke-width="1.00" />
+<text x="117.00" y="623.86" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111" >ECOTOG</text>
+<circle cx="526.83" cy="183.91" r="4.50" fill="#777" stroke="#111" stroke-width="1.00" />
+<text x="533.83" y="176.91" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111" >VAGMAT</text>
+<line x1="935.00" y1="610.00" x2="1640.00" y2="610.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="935.00" y1="120.00" x2="935.00" y2="610.00" stroke="#ececec" stroke-width="1.00" />
+<text x="925.00" y="614.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >0.00</text>
+<text x="935.00" y="628.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >0.00</text>
+<line x1="935.00" y1="512.00" x2="1640.00" y2="512.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="1076.00" y1="120.00" x2="1076.00" y2="610.00" stroke="#ececec" stroke-width="1.00" />
+<text x="925.00" y="516.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >10.49</text>
+<text x="1076.00" y="628.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >10.49</text>
+<line x1="935.00" y1="414.00" x2="1640.00" y2="414.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="1217.00" y1="120.00" x2="1217.00" y2="610.00" stroke="#ececec" stroke-width="1.00" />
+<text x="925.00" y="418.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >20.97</text>
+<text x="1217.00" y="628.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >20.97</text>
+<line x1="935.00" y1="316.00" x2="1640.00" y2="316.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="1358.00" y1="120.00" x2="1358.00" y2="610.00" stroke="#ececec" stroke-width="1.00" />
+<text x="925.00" y="320.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >31.46</text>
+<text x="1358.00" y="628.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >31.46</text>
+<line x1="935.00" y1="218.00" x2="1640.00" y2="218.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="1499.00" y1="120.00" x2="1499.00" y2="610.00" stroke="#ececec" stroke-width="1.00" />
+<text x="925.00" y="222.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >41.95</text>
+<text x="1499.00" y="628.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >41.95</text>
+<line x1="935.00" y1="120.00" x2="1640.00" y2="120.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="1640.00" y1="120.00" x2="1640.00" y2="610.00" stroke="#ececec" stroke-width="1.00" />
+<text x="925.00" y="124.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >52.44</text>
+<text x="1640.00" y="628.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >52.44</text>
+<line x1="935.00" y1="120.00" x2="935.00" y2="610.00" stroke="#111" stroke-width="1.80" />
+<line x1="935.00" y1="610.00" x2="1640.00" y2="610.00" stroke="#111" stroke-width="1.80" />
+<text x="1287.50" y="104.00" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#111" >UV_PS</text>
+<text x="1287.50" y="654.00" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" fill="#111" >HyMARC</text>
+<text x="869.00" y="365.00" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" fill="#111" transform="rotate(-90 869.00 365.00)">Mine</text>
+<line x1="935.00" y1="610.00" x2="1640.00" y2="120.00" stroke="#666" stroke-width="1.50" stroke-dasharray="6,4"/>
+<circle cx="936.61" cy="604.00" r="4.50" fill="#777" stroke="#111" stroke-width="1.00" />
+<text x="943.61" y="597.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111" >CAXPIC</text>
+<circle cx="935.27" cy="609.28" r="4.50" fill="#777" stroke="#111" stroke-width="1.00" />
+<text x="942.27" y="623.28" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111" >ECOTOG</text>
+<circle cx="1425.87" cy="183.91" r="4.50" fill="#777" stroke="#111" stroke-width="1.00" />
+<text x="1432.87" y="176.91" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111" >VAGMAT</text>
+<line x1="110.00" y1="1220.00" x2="815.00" y2="1220.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="110.00" y1="730.00" x2="110.00" y2="1220.00" stroke="#ececec" stroke-width="1.00" />
+<text x="100.00" y="1224.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >0.00</text>
+<text x="110.00" y="1238.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >0.00</text>
+<line x1="110.00" y1="1122.00" x2="815.00" y2="1122.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="251.00" y1="730.00" x2="251.00" y2="1220.00" stroke="#ececec" stroke-width="1.00" />
+<text x="100.00" y="1126.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >3.88</text>
+<text x="251.00" y="1238.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >3.88</text>
+<line x1="110.00" y1="1024.00" x2="815.00" y2="1024.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="392.00" y1="730.00" x2="392.00" y2="1220.00" stroke="#ececec" stroke-width="1.00" />
+<text x="100.00" y="1028.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >7.76</text>
+<text x="392.00" y="1238.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >7.76</text>
+<line x1="110.00" y1="926.00" x2="815.00" y2="926.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="533.00" y1="730.00" x2="533.00" y2="1220.00" stroke="#ececec" stroke-width="1.00" />
+<text x="100.00" y="930.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >11.64</text>
+<text x="533.00" y="1238.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >11.64</text>
+<line x1="110.00" y1="828.00" x2="815.00" y2="828.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="674.00" y1="730.00" x2="674.00" y2="1220.00" stroke="#ececec" stroke-width="1.00" />
+<text x="100.00" y="832.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >15.52</text>
+<text x="674.00" y="1238.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >15.52</text>
+<line x1="110.00" y1="730.00" x2="815.00" y2="730.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="815.00" y1="730.00" x2="815.00" y2="1220.00" stroke="#ececec" stroke-width="1.00" />
+<text x="100.00" y="734.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >19.39</text>
+<text x="815.00" y="1238.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >19.39</text>
+<line x1="110.00" y1="730.00" x2="110.00" y2="1220.00" stroke="#111" stroke-width="1.80" />
+<line x1="110.00" y1="1220.00" x2="815.00" y2="1220.00" stroke="#111" stroke-width="1.80" />
+<text x="462.50" y="714.00" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#111" >UG_TPS</text>
+<text x="462.50" y="1264.00" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" fill="#111" >HyMARC</text>
+<text x="44.00" y="975.00" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" fill="#111" transform="rotate(-90 44.00 975.00)">Mine</text>
+<line x1="110.00" y1="1220.00" x2="815.00" y2="730.00" stroke="#666" stroke-width="1.50" stroke-dasharray="6,4"/>
+<circle cx="115.45" cy="1215.55" r="4.50" fill="#777" stroke="#111" stroke-width="1.00" />
+<text x="122.45" y="1208.55" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111" >CAXPIC</text>
+<circle cx="110.00" cy="1219.89" r="4.50" fill="#777" stroke="#111" stroke-width="1.00" />
+<text x="117.00" y="1233.89" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111" >ECOTOG</text>
+<circle cx="551.66" cy="793.91" r="4.50" fill="#777" stroke="#111" stroke-width="1.00" />
+<text x="558.66" y="786.91" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111" >VAGMAT</text>
+<line x1="935.00" y1="1220.00" x2="1640.00" y2="1220.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="935.00" y1="730.00" x2="935.00" y2="1220.00" stroke="#ececec" stroke-width="1.00" />
+<text x="925.00" y="1224.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >0.00</text>
+<text x="935.00" y="1238.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >0.00</text>
+<line x1="935.00" y1="1122.00" x2="1640.00" y2="1122.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="1076.00" y1="730.00" x2="1076.00" y2="1220.00" stroke="#ececec" stroke-width="1.00" />
+<text x="925.00" y="1126.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >14.15</text>
+<text x="1076.00" y="1238.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >14.15</text>
+<line x1="935.00" y1="1024.00" x2="1640.00" y2="1024.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="1217.00" y1="730.00" x2="1217.00" y2="1220.00" stroke="#ececec" stroke-width="1.00" />
+<text x="925.00" y="1028.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >28.30</text>
+<text x="1217.00" y="1238.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >28.30</text>
+<line x1="935.00" y1="926.00" x2="1640.00" y2="926.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="1358.00" y1="730.00" x2="1358.00" y2="1220.00" stroke="#ececec" stroke-width="1.00" />
+<text x="925.00" y="930.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >42.44</text>
+<text x="1358.00" y="1238.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >42.44</text>
+<line x1="935.00" y1="828.00" x2="1640.00" y2="828.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="1499.00" y1="730.00" x2="1499.00" y2="1220.00" stroke="#ececec" stroke-width="1.00" />
+<text x="925.00" y="832.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >56.59</text>
+<text x="1499.00" y="1238.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >56.59</text>
+<line x1="935.00" y1="730.00" x2="1640.00" y2="730.00" stroke="#d6d6d6" stroke-width="1.00" />
+<line x1="1640.00" y1="730.00" x2="1640.00" y2="1220.00" stroke="#ececec" stroke-width="1.00" />
+<text x="925.00" y="734.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#333" >70.74</text>
+<text x="1640.00" y="1238.00" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="normal" fill="#333" >70.74</text>
+<line x1="935.00" y1="730.00" x2="935.00" y2="1220.00" stroke="#111" stroke-width="1.80" />
+<line x1="935.00" y1="1220.00" x2="1640.00" y2="1220.00" stroke="#111" stroke-width="1.80" />
+<text x="1287.50" y="714.00" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle" font-weight="bold" fill="#111" >UV_TPS</text>
+<text x="1287.50" y="1264.00" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" fill="#111" >HyMARC</text>
+<text x="869.00" y="975.00" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" font-weight="bold" fill="#111" transform="rotate(-90 869.00 975.00)">Mine</text>
+<line x1="935.00" y1="1220.00" x2="1640.00" y2="730.00" stroke="#666" stroke-width="1.50" stroke-dasharray="6,4"/>
+<circle cx="962.41" cy="1196.96" r="4.50" fill="#777" stroke="#111" stroke-width="1.00" />
+<text x="969.41" y="1189.96" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111" >CAXPIC</text>
+<circle cx="935.20" cy="1219.44" r="4.50" fill="#777" stroke="#111" stroke-width="1.00" />
+<text x="942.20" y="1233.44" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111" >ECOTOG</text>
+<circle cx="1436.00" cy="793.91" r="4.50" fill="#777" stroke="#111" stroke-width="1.00" />
+<text x="1443.00" y="786.91" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="bold" fill="#111" >VAGMAT</text>
+</svg>

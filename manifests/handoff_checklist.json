@@ -1,0 +1,47 @@
+{
+  "descriptor_csv_12986": {
+    "status": "present",
+    "path": "data/descriptors/mof_descriptors_12986.csv"
+  },
+  "saved_trained_models": {
+    "status": "partial_present",
+    "path": "models/model_manifest.json",
+    "note": "RF, ERT, HGB, KNN, and SVR .joblib artifacts are present. LightGBM artifacts remain pending until lightgbm is installed and notebooks/04_lightgbm.ipynb is run."
+  },
+  "train_test_split_indices": {
+    "status": "present",
+    "path": "splits/"
+  },
+  "raspa_templates": {
+    "status": "present",
+    "path": "raspa/templates/"
+  },
+  "raspa_forcefields": {
+    "status": "present",
+    "path": "raspa/forcefields/"
+  },
+  "raspa_validation_cifs": {
+    "status": "present",
+    "path": "raspa/validation_cifs/"
+  },
+  "raspa_run_inputs_outputs": {
+    "status": "present",
+    "path": "raspa/runs/"
+  },
+  "readme": {
+    "status": "present",
+    "path": "README.md"
+  },
+  "environment": {
+    "status": "present",
+    "path": "environment.yml"
+  },
+  "license": {
+    "status": "present",
+    "path": "LICENSE"
+  },
+  "handoff_notes": {
+    "status": "present",
+    "path": "docs/HANDOFF_NOTES.md"
+  }
+}

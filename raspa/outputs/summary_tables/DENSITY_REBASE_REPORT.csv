@@ -1,0 +1,13 @@
+phase,MOF,rho_crystal_kg_m3,rho_crystal_g_cm3,UV_mine_g_L,UV_data_g_L,uv_scale_data_over_mine,rho_needed_kg_m3,rho_needed_g_cm3,plausibility,classification_from_stepA
+PS,CAXPIC,1888.356289,1.888356,0.641860,0.120000,0.186957,353.040779,0.353041,plausible_bulk,protocol_or_model_candidate
+PS,ECOTOG,1834.748129,1.834748,0.077042,0.020000,0.259599,476.298157,0.476298,plausible_bulk,minor
+PS,VAGMAT,364.744465,0.364744,,36.510000,,,,,minor
+PS,XAFFAN,365.196889,0.365197,45.507827,36.510000,0.802280,292.990004,0.292990,plausible_bulk,protocol_or_model_candidate
+PS,XAFFIV,358.394255,0.358394,45.710605,36.580000,0.800252,286.805695,0.286806,plausible_bulk,protocol_or_model_candidate
+PS,XUJCUB,1898.537293,1.898537,0.000000,,,,,,minor
+TPS,CAXPIC,1888.356289,1.888356,3.326614,2.750000,0.826666,1561.040684,1.561041,implausible_bulk,minor
+TPS,ECOTOG,1834.748129,1.834748,0.081165,0.020000,0.246412,452.103278,0.452103,plausible_bulk,minor
+TPS,VAGMAT,364.744465,0.364744,,50.270000,,,,,minor
+TPS,XAFFAN,365.196889,0.365197,61.349098,50.240000,0.818920,299.067016,0.299067,plausible_bulk,protocol_or_model_candidate
+TPS,XAFFIV,358.394255,0.358394,60.940581,49.800000,0.817189,292.876005,0.292876,plausible_bulk,protocol_or_model_candidate
+TPS,XUJCUB,1898.537293,1.898537,0.000000,,,,,,minor

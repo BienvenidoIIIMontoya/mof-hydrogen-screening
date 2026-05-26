@@ -1,0 +1,12 @@
+_symmetry_space_group_name_H-M: P1 found space group: 1
+_symmetry_Int_Tables_number: 1
+space group found from symmetry elements: 1 (nr elements: 1)
+_cell_length_a: 17.219000
+_cell_length_b: 23.084700
+_cell_length_c: 23.084700
+_cell_length_alpha: 60.540500
+_cell_length_beta: 68.102100
+_cell_length_gamma: 68.102200
+End reading cif-file
+Shift all potentials
+'force_field.def' file not found and therefore not used

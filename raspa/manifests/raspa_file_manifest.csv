@@ -1,0 +1,190 @@
+category,path,description,size_bytes,sha256
+template,raspa/templates/run.sh,Reusable RASPA run template/input file.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+template,raspa/templates/simulation.input,Reusable RASPA run template/input file.,787,ce59bfd9c0f06a04bac43b0570c6fecc100370d1b6d8cccd92be4b2ba1c1977b
+forcefield,raspa/forcefields/Generic/force_field_mixing_rules.def,RASPA force-field parameter file copied from recovered RASPA share directory.,3842,c51ed025170e1de0002bcb03a94ff3582060e9162882f2ed24e4d09d01ddd746
+forcefield,raspa/forcefields/Generic/Generic/force_field_mixing_rules.def,RASPA force-field parameter file copied from recovered RASPA share directory.,3842,c51ed025170e1de0002bcb03a94ff3582060e9162882f2ed24e4d09d01ddd746
+forcefield,raspa/forcefields/Generic/Generic/pseudo_atoms.def,RASPA force-field parameter file copied from recovered RASPA share directory.,2122,cad7f96ea1aa604b6014e60d05013a3d97961390a63a8dbc39f312c487495445
+forcefield,raspa/forcefields/Generic/pseudo_atoms.def,RASPA force-field parameter file copied from recovered RASPA share directory.,2122,cad7f96ea1aa604b6014e60d05013a3d97961390a63a8dbc39f312c487495445
+forcefield,raspa/forcefields/Generic_H2fix/force_field_mixing_rules.def,RASPA force-field parameter file copied from recovered RASPA share directory.,3842,c51ed025170e1de0002bcb03a94ff3582060e9162882f2ed24e4d09d01ddd746
+forcefield,raspa/forcefields/Generic_H2fix/Generic_H2fix/force_field_mixing_rules.def,RASPA force-field parameter file copied from recovered RASPA share directory.,3842,c51ed025170e1de0002bcb03a94ff3582060e9162882f2ed24e4d09d01ddd746
+forcefield,raspa/forcefields/Generic_H2fix/Generic_H2fix/pseudo_atoms.def,RASPA force-field parameter file copied from recovered RASPA share directory.,2122,3df8709182470ea6dace7fd8b9b3da19c9c91918b274dc35164497b2de88a6c6
+forcefield,raspa/forcefields/Generic_H2fix/pseudo_atoms.def,RASPA force-field parameter file copied from recovered RASPA share directory.,2122,3df8709182470ea6dace7fd8b9b3da19c9c91918b274dc35164497b2de88a6c6
+molecule_definition,raspa/molecules/ExampleDefinitions/hydrogen.def,RASPA molecule definition file for hydrogen.,567,98af45fa4382f3499534ac3a791ecc5b59c8b3e0e6f90d4a25ddd9a852875aa2
+molecule_definition,raspa/molecules/ExampleDefinitions_H2fix/hydrogen.def,RASPA molecule definition file for hydrogen.,569,67c27cafc7d616264bf7defc9eafe2de0018357f4bce6228777b9630150e331a
+validation_cif,raspa/validation_cifs/CAXPIC_clean.cif,Validation MOF CIF used in GCMC checks.,6523,7c18db97d65579373e2d2554af2d5ea835c1d55046a96984deabdfa89d9fa1eb
+validation_cif,raspa/validation_cifs/ECOTOG_clean.cif,Validation MOF CIF used in GCMC checks.,6840,31ccffee7294154b5024c090f38de6868546a0279f0a956a3c72fb250412b3b0
+validation_cif,raspa/validation_cifs/VAGMAT_clean.cif,Validation MOF CIF used in GCMC checks.,10426,9bcc1767ab4a62b834c2663eff0496f6b10c1e768bdebb1a9e4757e1868a0036
+validation_cif,raspa/validation_cifs/XAFFAN_clean.cif,Validation MOF CIF used in GCMC checks.,10426,8631f58b7f31dfaae74dad89622370b4f152a09bbe536ce3a272d7f6f25aef0a
+validation_cif,raspa/validation_cifs/XAFFIV_clean.cif,Validation MOF CIF used in GCMC checks.,10426,4c6b708af561f86ddbc7a3469de915a77ef072ad47e54f57cb8399590eae865e
+validation_cif,raspa/validation_cifs/XUJCUB_clean.cif,Validation MOF CIF used in GCMC checks.,3128,bba47260dccf9444e6607ccfc2d1e4fe6f043d7bbabf1cf6c527e99a4f31770b
+run_artifact,raspa/runs/CAXPIC/PS_high/CAXPIC_clean.cif,Curated GCMC run input/stdout/output data artifact.,6523,7c18db97d65579373e2d2554af2d5ea835c1d55046a96984deabdfa89d9fa1eb
+run_artifact,raspa/runs/CAXPIC/PS_high/Output/System_0/output_CAXPIC_clean_1.1.1_77.000000_1e+07.data,Curated GCMC run input/stdout/output data artifact.,1176133,51bbc3a00712b41f97b4caa62fd36e64a820dcb5f3accfff921ac8b65dabf132
+run_artifact,raspa/runs/CAXPIC/PS_high/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,414,c888f04021867e2b0a11016113bac0e4fc0950ec909884fe074191ac63436cb0
+run_artifact,raspa/runs/CAXPIC/PS_high/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/CAXPIC/PS_high/simulation.input,Curated GCMC run input/stdout/output data artifact.,787,e78f48b418ad480b6a5cb8bb71d76990dbd62b7758da7f273f5e7107d144abd2
+run_artifact,raspa/runs/CAXPIC/PS_low/CAXPIC_clean.cif,Curated GCMC run input/stdout/output data artifact.,6523,7c18db97d65579373e2d2554af2d5ea835c1d55046a96984deabdfa89d9fa1eb
+run_artifact,raspa/runs/CAXPIC/PS_low/Output/System_0/output_CAXPIC_clean_1.1.1_77.000000_500000.data,Curated GCMC run input/stdout/output data artifact.,1176137,ef540117fe34f3d5d0f060781c1b448bc515f394768117f6f2d681b26e31f2c7
+run_artifact,raspa/runs/CAXPIC/PS_low/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,414,c888f04021867e2b0a11016113bac0e4fc0950ec909884fe074191ac63436cb0
+run_artifact,raspa/runs/CAXPIC/PS_low/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/CAXPIC/PS_low/simulation.input,Curated GCMC run input/stdout/output data artifact.,785,ec5169b9a748bfde1d75884f64ae6394d0d0fe4f5e23bc85b49d23ab67f6db02
+run_artifact,raspa/runs/CAXPIC/TPS_high/CAXPIC_clean.cif,Curated GCMC run input/stdout/output data artifact.,6523,7c18db97d65579373e2d2554af2d5ea835c1d55046a96984deabdfa89d9fa1eb
+run_artifact,raspa/runs/CAXPIC/TPS_high/Output/System_0/output_CAXPIC_clean_1.1.1_77.000000_1e+07.data,Curated GCMC run input/stdout/output data artifact.,1176133,51bbc3a00712b41f97b4caa62fd36e64a820dcb5f3accfff921ac8b65dabf132
+run_artifact,raspa/runs/CAXPIC/TPS_high/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,414,c888f04021867e2b0a11016113bac0e4fc0950ec909884fe074191ac63436cb0
+run_artifact,raspa/runs/CAXPIC/TPS_high/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/CAXPIC/TPS_high/simulation.input,Curated GCMC run input/stdout/output data artifact.,787,e78f48b418ad480b6a5cb8bb71d76990dbd62b7758da7f273f5e7107d144abd2
+run_artifact,raspa/runs/CAXPIC/TPS_low/CAXPIC_clean.cif,Curated GCMC run input/stdout/output data artifact.,6523,7c18db97d65579373e2d2554af2d5ea835c1d55046a96984deabdfa89d9fa1eb
+run_artifact,raspa/runs/CAXPIC/TPS_low/Output/System_0/output_CAXPIC_clean_1.1.1_160.000000_500000.data,Curated GCMC run input/stdout/output data artifact.,1176104,7696e92ef93ca5f244b4ebaa987dd56d03eed1f6ff6303c5212ffe0314aada37
+run_artifact,raspa/runs/CAXPIC/TPS_low/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,414,c888f04021867e2b0a11016113bac0e4fc0950ec909884fe074191ac63436cb0
+run_artifact,raspa/runs/CAXPIC/TPS_low/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/CAXPIC/TPS_low/simulation.input,Curated GCMC run input/stdout/output data artifact.,786,6cb148e0e301a9f58d2630ada416aa75628d09e7c013fdf2edcfe2fddd1643c9
+run_artifact,raspa/runs/ECOTOG/PS_high/ECOTOG_clean.cif,Curated GCMC run input/stdout/output data artifact.,6840,31ccffee7294154b5024c090f38de6868546a0279f0a956a3c72fb250412b3b0
+run_artifact,raspa/runs/ECOTOG/PS_high/Output/System_0/output_ECOTOG_clean_1.1.1_77.000000_1e+07.data,Curated GCMC run input/stdout/output data artifact.,1244439,8e9389ce0d1ff99575fbe8183f16f88ccdce0c12ce4fdf2bc47d0c8ad3962535
+run_artifact,raspa/runs/ECOTOG/PS_high/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,411,27c10425aa6400accce058901b4f0d92e7d10315b1daede838c324cba95321ab
+run_artifact,raspa/runs/ECOTOG/PS_high/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/ECOTOG/PS_high/simulation.input,Curated GCMC run input/stdout/output data artifact.,787,969b9feadcd0f917fc4450b74eb603811fffcbd4337b8467e39001cce544aace
+run_artifact,raspa/runs/ECOTOG/PS_low/ECOTOG_clean.cif,Curated GCMC run input/stdout/output data artifact.,6840,31ccffee7294154b5024c090f38de6868546a0279f0a956a3c72fb250412b3b0
+run_artifact,raspa/runs/ECOTOG/PS_low/Output/System_0/output_ECOTOG_clean_1.1.1_77.000000_500000.data,Curated GCMC run input/stdout/output data artifact.,1244438,fb95c54c2fbbf1f2d7226f78d5db0784c76b89b1d8c990218b49b22a8d545ce8
+run_artifact,raspa/runs/ECOTOG/PS_low/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,411,27c10425aa6400accce058901b4f0d92e7d10315b1daede838c324cba95321ab
+run_artifact,raspa/runs/ECOTOG/PS_low/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/ECOTOG/PS_low/simulation.input,Curated GCMC run input/stdout/output data artifact.,785,4652e0d44e841efe461c2742d85451275870739eae261dfa18d0e9451ab3ad92
+run_artifact,raspa/runs/ECOTOG/TPS_high/ECOTOG_clean.cif,Curated GCMC run input/stdout/output data artifact.,6840,31ccffee7294154b5024c090f38de6868546a0279f0a956a3c72fb250412b3b0
+run_artifact,raspa/runs/ECOTOG/TPS_high/Output/System_0/output_ECOTOG_clean_1.1.1_77.000000_1e+07.data,Curated GCMC run input/stdout/output data artifact.,1244439,8e9389ce0d1ff99575fbe8183f16f88ccdce0c12ce4fdf2bc47d0c8ad3962535
+run_artifact,raspa/runs/ECOTOG/TPS_high/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,411,27c10425aa6400accce058901b4f0d92e7d10315b1daede838c324cba95321ab
+run_artifact,raspa/runs/ECOTOG/TPS_high/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/ECOTOG/TPS_high/simulation.input,Curated GCMC run input/stdout/output data artifact.,787,969b9feadcd0f917fc4450b74eb603811fffcbd4337b8467e39001cce544aace
+run_artifact,raspa/runs/ECOTOG/TPS_low/ECOTOG_clean.cif,Curated GCMC run input/stdout/output data artifact.,6840,31ccffee7294154b5024c090f38de6868546a0279f0a956a3c72fb250412b3b0
+run_artifact,raspa/runs/ECOTOG/TPS_low/Output/System_0/output_ECOTOG_clean_1.1.1_160.000000_500000.data,Curated GCMC run input/stdout/output data artifact.,1244421,da4e2531a826593fcba6aeac9b31532a1ffffa63a906c2189a05c51fb9088b4d
+run_artifact,raspa/runs/ECOTOG/TPS_low/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,411,27c10425aa6400accce058901b4f0d92e7d10315b1daede838c324cba95321ab
+run_artifact,raspa/runs/ECOTOG/TPS_low/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/ECOTOG/TPS_low/simulation.input,Curated GCMC run input/stdout/output data artifact.,786,2fef2b6566211ad940dcc83e9bbece1f7e6e3dd24e1349a463a895f6e07976b3
+run_artifact,raspa/runs/VAGMAT/PS_high/Output/System_0/output_VAGMAT_clean_1.1.1_77.000000_1e+07.data,Curated GCMC run input/stdout/output data artifact.,1797836,bb0a29bf3c7c0145ef5140e481a88eaa673f3d0364f266b5a81dae465be1cc39
+run_artifact,raspa/runs/VAGMAT/PS_high/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,413,67f2d93e5f1e0dbbbe75d8bb2e5e209e50601e47fdd892d0e1d3c3583ca5ce1e
+run_artifact,raspa/runs/VAGMAT/PS_high/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/VAGMAT/PS_high/simulation.input,Curated GCMC run input/stdout/output data artifact.,787,05e431030aa4dc0a85c211d6b351d9fe19393f0976f3331240cd71af6c9a65e6
+run_artifact,raspa/runs/VAGMAT/PS_high/VAGMAT_clean.cif,Curated GCMC run input/stdout/output data artifact.,10426,9bcc1767ab4a62b834c2663eff0496f6b10c1e768bdebb1a9e4757e1868a0036
+run_artifact,raspa/runs/VAGMAT/PS_high_validate_massfix/Output/System_0/output_VAGMAT_clean_1.1.1_77.000000_1e+07.data,Curated GCMC run input/stdout/output data artifact.,1878119,2e9b102d34af562f3e378d2fb7ad15ce95fd029d37c98321a5fb4629672b9db5
+run_artifact,raspa/runs/VAGMAT/PS_high_validate_massfix/run.sh,Curated GCMC run input/stdout/output data artifact.,138,b2051bb30b291bf95635a5b6aa9c1a343451b6878a718840b607eb9b0be6c583
+run_artifact,raspa/runs/VAGMAT/PS_high_validate_massfix/simulation.input,Curated GCMC run input/stdout/output data artifact.,785,078ccc53f79a69cf28027dcbbc78da4aad5376a56a749863a7566b2f4e17807d
+run_artifact,raspa/runs/VAGMAT/PS_high_validate_massfix/VAGMAT_clean.cif,Curated GCMC run input/stdout/output data artifact.,10426,9bcc1767ab4a62b834c2663eff0496f6b10c1e768bdebb1a9e4757e1868a0036
+run_artifact,raspa/runs/VAGMAT/PS_low/Output/System_0/output_VAGMAT_clean_1.1.1_77.000000_500000.data,Curated GCMC run input/stdout/output data artifact.,2222678,71588e8150210efac8577595dafe2759e8cdaf9c4dd9d0581adbf73d8714538d
+run_artifact,raspa/runs/VAGMAT/PS_low/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,413,67f2d93e5f1e0dbbbe75d8bb2e5e209e50601e47fdd892d0e1d3c3583ca5ce1e
+run_artifact,raspa/runs/VAGMAT/PS_low/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/VAGMAT/PS_low/simulation.input,Curated GCMC run input/stdout/output data artifact.,785,c1165a199540227abd391cf0e2969f8196bff9b122d5be5ddf17a2c38e4fedeb
+run_artifact,raspa/runs/VAGMAT/PS_low/VAGMAT_clean.cif,Curated GCMC run input/stdout/output data artifact.,10426,9bcc1767ab4a62b834c2663eff0496f6b10c1e768bdebb1a9e4757e1868a0036
+run_artifact,raspa/runs/VAGMAT/TPS_high/Output/System_0/output_VAGMAT_clean_1.1.1_77.000000_1e+07.data,Curated GCMC run input/stdout/output data artifact.,2223350,46f207eef9be785524d807bc0c8eb47db0c8ecdc11d29bfff160e3b2ba15e92c
+run_artifact,raspa/runs/VAGMAT/TPS_high/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,413,67f2d93e5f1e0dbbbe75d8bb2e5e209e50601e47fdd892d0e1d3c3583ca5ce1e
+run_artifact,raspa/runs/VAGMAT/TPS_high/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/VAGMAT/TPS_high/simulation.input,Curated GCMC run input/stdout/output data artifact.,787,05e431030aa4dc0a85c211d6b351d9fe19393f0976f3331240cd71af6c9a65e6
+run_artifact,raspa/runs/VAGMAT/TPS_high/VAGMAT_clean.cif,Curated GCMC run input/stdout/output data artifact.,10426,9bcc1767ab4a62b834c2663eff0496f6b10c1e768bdebb1a9e4757e1868a0036
+run_artifact,raspa/runs/VAGMAT/TPS_low/Output/System_0/output_VAGMAT_clean_1.1.1_160.000000_500000.data,Curated GCMC run input/stdout/output data artifact.,2222172,d427925aa2a3d0cec1dff5913933805a0c0366f65367c8b86f1a8ba000906a38
+run_artifact,raspa/runs/VAGMAT/TPS_low/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,413,67f2d93e5f1e0dbbbe75d8bb2e5e209e50601e47fdd892d0e1d3c3583ca5ce1e
+run_artifact,raspa/runs/VAGMAT/TPS_low/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/VAGMAT/TPS_low/simulation.input,Curated GCMC run input/stdout/output data artifact.,786,4b1746d0533ba1ae8129f8f3edb525388957cc6764c415955fb030e3686115a3
+run_artifact,raspa/runs/VAGMAT/TPS_low/VAGMAT_clean.cif,Curated GCMC run input/stdout/output data artifact.,10426,9bcc1767ab4a62b834c2663eff0496f6b10c1e768bdebb1a9e4757e1868a0036
+run_artifact,raspa/runs/XAFFAN/PS_high/Output/System_0/output_XAFFAN_clean_1.1.1_77.000000_1e+07.data,Curated GCMC run input/stdout/output data artifact.,2223346,2a3995b800a146d02e1830184d25c8b8f9ec3807e77b838e4b2cb1635769e6d7
+run_artifact,raspa/runs/XAFFAN/PS_high/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,413,9fa076da29bd1334e17d2f48068422ea1938ab998a33af1c435d070716c1872a
+run_artifact,raspa/runs/XAFFAN/PS_high/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/XAFFAN/PS_high/simulation.input,Curated GCMC run input/stdout/output data artifact.,787,aaa1be96a16d30136a73a2e870befaf576e56cdb6d7e515de8b582b92d3156ad
+run_artifact,raspa/runs/XAFFAN/PS_high/XAFFAN_clean.cif,Curated GCMC run input/stdout/output data artifact.,10426,8631f58b7f31dfaae74dad89622370b4f152a09bbe536ce3a272d7f6f25aef0a
+run_artifact,raspa/runs/XAFFAN/PS_low/Output/System_0/output_XAFFAN_clean_1.1.1_77.000000_500000.data,Curated GCMC run input/stdout/output data artifact.,2222698,ff1c74dd070efe66af8634cf4bff8aca04605028ae81d0a4c54f25dfbe200469
+run_artifact,raspa/runs/XAFFAN/PS_low/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,413,9fa076da29bd1334e17d2f48068422ea1938ab998a33af1c435d070716c1872a
+run_artifact,raspa/runs/XAFFAN/PS_low/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/XAFFAN/PS_low/simulation.input,Curated GCMC run input/stdout/output data artifact.,785,51b440bb623652280748a3c4d4ba763cf6cdafb2ef7e1320bfb657a8fdd07547
+run_artifact,raspa/runs/XAFFAN/PS_low/XAFFAN_clean.cif,Curated GCMC run input/stdout/output data artifact.,10426,8631f58b7f31dfaae74dad89622370b4f152a09bbe536ce3a272d7f6f25aef0a
+run_artifact,raspa/runs/XAFFAN/TPS_high/Output/System_0/output_XAFFAN_clean_1.1.1_77.000000_1e+07.data,Curated GCMC run input/stdout/output data artifact.,2223346,2a3995b800a146d02e1830184d25c8b8f9ec3807e77b838e4b2cb1635769e6d7
+run_artifact,raspa/runs/XAFFAN/TPS_high/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,413,9fa076da29bd1334e17d2f48068422ea1938ab998a33af1c435d070716c1872a
+run_artifact,raspa/runs/XAFFAN/TPS_high/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/XAFFAN/TPS_high/simulation.input,Curated GCMC run input/stdout/output data artifact.,787,aaa1be96a16d30136a73a2e870befaf576e56cdb6d7e515de8b582b92d3156ad
+run_artifact,raspa/runs/XAFFAN/TPS_high/XAFFAN_clean.cif,Curated GCMC run input/stdout/output data artifact.,10426,8631f58b7f31dfaae74dad89622370b4f152a09bbe536ce3a272d7f6f25aef0a
+run_artifact,raspa/runs/XAFFAN/TPS_low/Output/System_0/output_XAFFAN_clean_1.1.1_160.000000_500000.data,Curated GCMC run input/stdout/output data artifact.,2222147,52460ed52789a1ccdd9f0c8d58abcae3b7a8953ff84fb72de4413365d6d75402
+run_artifact,raspa/runs/XAFFAN/TPS_low/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,413,9fa076da29bd1334e17d2f48068422ea1938ab998a33af1c435d070716c1872a
+run_artifact,raspa/runs/XAFFAN/TPS_low/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/XAFFAN/TPS_low/simulation.input,Curated GCMC run input/stdout/output data artifact.,786,2cd61fbb319a3a6c8aa73609cace02734f987f981f10acfa0c7f65acd4199773
+run_artifact,raspa/runs/XAFFAN/TPS_low/XAFFAN_clean.cif,Curated GCMC run input/stdout/output data artifact.,10426,8631f58b7f31dfaae74dad89622370b4f152a09bbe536ce3a272d7f6f25aef0a
+run_artifact,raspa/runs/XAFFIV/PS_high/Output/System_0/output_XAFFIV_clean_1.1.1_77.000000_1e+07.data,Curated GCMC run input/stdout/output data artifact.,2223346,9b3beb3d52d8c271fd0596217b59aea3c00f5da2710b189edda2e4edad676dda
+run_artifact,raspa/runs/XAFFIV/PS_high/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,413,c1fa6f3fecc7f3af82d808fa899e37bab3c6e776dafda21a1b0aa4ac74df10fa
+run_artifact,raspa/runs/XAFFIV/PS_high/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/XAFFIV/PS_high/simulation.input,Curated GCMC run input/stdout/output data artifact.,787,bc4b73b628a37b16de57fb25998ce04126fd6f4814cba0e06e58e93c5f460727
+run_artifact,raspa/runs/XAFFIV/PS_high/XAFFIV_clean.cif,Curated GCMC run input/stdout/output data artifact.,10426,4c6b708af561f86ddbc7a3469de915a77ef072ad47e54f57cb8399590eae865e
+run_artifact,raspa/runs/XAFFIV/PS_low/Output/System_0/output_XAFFIV_clean_1.1.1_77.000000_500000.data,Curated GCMC run input/stdout/output data artifact.,2222670,4a16900cd4fe8917c273828a9826d543665992bbec16471da25c1a8711ed7c66
+run_artifact,raspa/runs/XAFFIV/PS_low/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,413,c1fa6f3fecc7f3af82d808fa899e37bab3c6e776dafda21a1b0aa4ac74df10fa
+run_artifact,raspa/runs/XAFFIV/PS_low/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/XAFFIV/PS_low/simulation.input,Curated GCMC run input/stdout/output data artifact.,785,e3f5ec7d9d483d854c205fc5f6887400da8d38f30a5794ec711f2e1aabff872a
+run_artifact,raspa/runs/XAFFIV/PS_low/XAFFIV_clean.cif,Curated GCMC run input/stdout/output data artifact.,10426,4c6b708af561f86ddbc7a3469de915a77ef072ad47e54f57cb8399590eae865e
+run_artifact,raspa/runs/XAFFIV/TPS_high/Output/System_0/output_XAFFIV_clean_1.1.1_77.000000_1e+07.data,Curated GCMC run input/stdout/output data artifact.,2223346,9b3beb3d52d8c271fd0596217b59aea3c00f5da2710b189edda2e4edad676dda
+run_artifact,raspa/runs/XAFFIV/TPS_high/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,413,c1fa6f3fecc7f3af82d808fa899e37bab3c6e776dafda21a1b0aa4ac74df10fa
+run_artifact,raspa/runs/XAFFIV/TPS_high/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/XAFFIV/TPS_high/simulation.input,Curated GCMC run input/stdout/output data artifact.,787,bc4b73b628a37b16de57fb25998ce04126fd6f4814cba0e06e58e93c5f460727
+run_artifact,raspa/runs/XAFFIV/TPS_high/XAFFIV_clean.cif,Curated GCMC run input/stdout/output data artifact.,10426,4c6b708af561f86ddbc7a3469de915a77ef072ad47e54f57cb8399590eae865e
+run_artifact,raspa/runs/XAFFIV/TPS_low/Output/System_0/output_XAFFIV_clean_1.1.1_160.000000_500000.data,Curated GCMC run input/stdout/output data artifact.,2222165,a905805d5370479fd2921c3f97ebb13814a58faa3f9efcace6a3d68e3f45816c
+run_artifact,raspa/runs/XAFFIV/TPS_low/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,413,c1fa6f3fecc7f3af82d808fa899e37bab3c6e776dafda21a1b0aa4ac74df10fa
+run_artifact,raspa/runs/XAFFIV/TPS_low/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/XAFFIV/TPS_low/simulation.input,Curated GCMC run input/stdout/output data artifact.,786,74ba849385a7fab556a2f1bca38e2a52b64eb84cae3fc46faa20acc3bf7a0d70
+run_artifact,raspa/runs/XAFFIV/TPS_low/XAFFIV_clean.cif,Curated GCMC run input/stdout/output data artifact.,10426,4c6b708af561f86ddbc7a3469de915a77ef072ad47e54f57cb8399590eae865e
+run_artifact,raspa/runs/XUJCUB/PS_high/Output/System_0/output_XUJCUB_clean_1.1.1_77.000000_1e+07.data,Curated GCMC run input/stdout/output data artifact.,641629,404795bbb1e1e96395787f865434a1bf55ecd0ce432c3572fc0e8c2f8895289f
+run_artifact,raspa/runs/XUJCUB/PS_high/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,411,2d06dec6c0224b04c8fcd60406099309121c7fc04593dd975773d94f56ff0bf3
+run_artifact,raspa/runs/XUJCUB/PS_high/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/XUJCUB/PS_high/simulation.input,Curated GCMC run input/stdout/output data artifact.,787,e237cb45d6fb424836a209dca2c4bed2e87a17d99d62eeea0f319f7c54ccf85e
+run_artifact,raspa/runs/XUJCUB/PS_high/XUJCUB_clean.cif,Curated GCMC run input/stdout/output data artifact.,3128,bba47260dccf9444e6607ccfc2d1e4fe6f043d7bbabf1cf6c527e99a4f31770b
+run_artifact,raspa/runs/XUJCUB/PS_low/Output/System_0/output_XUJCUB_clean_1.1.1_77.000000_500000.data,Curated GCMC run input/stdout/output data artifact.,641645,d7a3832cd31f9f819f99ceb9ad2ccf64697373bd7bb591ace6a8d4f6a5c73d55
+run_artifact,raspa/runs/XUJCUB/PS_low/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,411,2d06dec6c0224b04c8fcd60406099309121c7fc04593dd975773d94f56ff0bf3
+run_artifact,raspa/runs/XUJCUB/PS_low/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/XUJCUB/PS_low/simulation.input,Curated GCMC run input/stdout/output data artifact.,785,670946ce6fe4fafd8af502d212b70f933958ad671941ddf4cb99260faf548038
+run_artifact,raspa/runs/XUJCUB/PS_low/XUJCUB_clean.cif,Curated GCMC run input/stdout/output data artifact.,3128,bba47260dccf9444e6607ccfc2d1e4fe6f043d7bbabf1cf6c527e99a4f31770b
+run_artifact,raspa/runs/XUJCUB/TPS_high/Output/System_0/output_XUJCUB_clean_1.1.1_77.000000_1e+07.data,Curated GCMC run input/stdout/output data artifact.,641629,404795bbb1e1e96395787f865434a1bf55ecd0ce432c3572fc0e8c2f8895289f
+run_artifact,raspa/runs/XUJCUB/TPS_high/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,411,2d06dec6c0224b04c8fcd60406099309121c7fc04593dd975773d94f56ff0bf3
+run_artifact,raspa/runs/XUJCUB/TPS_high/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/XUJCUB/TPS_high/simulation.input,Curated GCMC run input/stdout/output data artifact.,787,e237cb45d6fb424836a209dca2c4bed2e87a17d99d62eeea0f319f7c54ccf85e
+run_artifact,raspa/runs/XUJCUB/TPS_high/XUJCUB_clean.cif,Curated GCMC run input/stdout/output data artifact.,3128,bba47260dccf9444e6607ccfc2d1e4fe6f043d7bbabf1cf6c527e99a4f31770b
+run_artifact,raspa/runs/XUJCUB/TPS_low/Output/System_0/output_XUJCUB_clean_1.1.1_160.000000_500000.data,Curated GCMC run input/stdout/output data artifact.,641647,cc29dcf5bec701e30b5f84dcea7a9c0187847d6f51943f200f3e6727fdccb8ca
+run_artifact,raspa/runs/XUJCUB/TPS_low/raspa_run_stdout.txt,Curated GCMC run input/stdout/output data artifact.,411,2d06dec6c0224b04c8fcd60406099309121c7fc04593dd975773d94f56ff0bf3
+run_artifact,raspa/runs/XUJCUB/TPS_low/run.sh,Curated GCMC run input/stdout/output data artifact.,144,ed22c94809754dcfa1c4fd7ff412ec01c839ecb8a143ce242c7872e48630388f
+run_artifact,raspa/runs/XUJCUB/TPS_low/simulation.input,Curated GCMC run input/stdout/output data artifact.,786,b204edf7d2b3dd59a0993aadbb9ad4548b65c63e774192df05c2efd39f376024
+run_artifact,raspa/runs/XUJCUB/TPS_low/XUJCUB_clean.cif,Curated GCMC run input/stdout/output data artifact.,3128,bba47260dccf9444e6607ccfc2d1e4fe6f043d7bbabf1cf6c527e99a4f31770b
+summary_output,raspa/outputs/summary_tables/ABSTRACT_PATCH.txt,Recovered GCMC summary/table/manuscript note output.,809,700e9c4f1a7d247c16dc07d9a792005ace1cbfcaf09ea2ac94a267ed62c488e4
+summary_output,raspa/outputs/summary_tables/ALL6_corrected_summary.csv,Recovered GCMC summary/table/manuscript note output.,3657,72138e8cbbc98059f739271c707edcc9982a1e6d81c9e6cf9d3f61eef902906f
+summary_output,raspa/outputs/summary_tables/ALL_corrected_summary_absolute_vs_excess.csv,Recovered GCMC summary/table/manuscript note output.,3210,4a5a41cfff53c7e058e3252a47dbc1c41f80f4364167cd79d1e07b201dd25172
+summary_output,raspa/outputs/summary_tables/ALL_corrected_summary_with_sanity.csv,Recovered GCMC summary/table/manuscript note output.,10167,1c7835158042a7a8cb3940122e8627c39e11287229260b3669c34ef2d2c90a5c
+summary_output,raspa/outputs/summary_tables/BOTTOM_CONTROLS_TABLE.csv,Recovered GCMC summary/table/manuscript note output.,1026,b1ea5f884c9b168dfabbbf7aa606304379dcc0ce69ffebbc6eddfdb5c8390f36
+summary_output,raspa/outputs/summary_tables/CAXPIC_PS_TPS_corrected_summary.csv,Recovered GCMC summary/table/manuscript note output.,1034,f496b53c61f4fe6f466bdd52bda27adbc1cf14fc5f469f478bad1af930788a8a
+summary_output,raspa/outputs/summary_tables/CAXPIC_PS_TPS_summary.csv,Recovered GCMC summary/table/manuscript note output.,849,64d5edeba66c4a13534532a8bc21a5e913674dd509d77c3ede8210b37153ee53
+summary_output,raspa/outputs/summary_tables/DENSITY_REBASE_REPORT.csv,Recovered GCMC summary/table/manuscript note output.,1299,8e3b474ef6519e46dccc072213e509154d672d838dc7c8ff7af8f3f4334907bb
+summary_output,raspa/outputs/summary_tables/ECOTOG_PS_TPS_corrected_summary.csv,Recovered GCMC summary/table/manuscript note output.,1056,5fdb547fae30fe368036afe6d0ae19b8a5ff94de47938c7b94ad0eb384c791f6
+summary_output,raspa/outputs/summary_tables/ECOTOG_PS_TPS_summary.csv,Recovered GCMC summary/table/manuscript note output.,853,e4f04c99cbd8e4297cc8a88fe18977368c6dae86648c87e5717169539eed83d6
+summary_output,raspa/outputs/summary_tables/FINAL_BENCHMARK_TABLE.csv,Recovered GCMC summary/table/manuscript note output.,504,805356c088f1c53cd8a4ef4078659e5a95d83ffedc71342fe0b383595269aca1
+summary_output,raspa/outputs/summary_tables/HY_MOF_BENCHMARK.csv,Recovered GCMC summary/table/manuscript note output.,504,805356c088f1c53cd8a4ef4078659e5a95d83ffedc71342fe0b383595269aca1
+summary_output,raspa/outputs/summary_tables/HYMARC_vs_MINE.csv,Recovered GCMC summary/table/manuscript note output.,963,2377950ddd0644155c6f65361ad5fea7d4be77ac7f7c090a846fa58b482cd01f
+summary_output,raspa/outputs/summary_tables/LIMITATIONS_PATCH.txt,Recovered GCMC summary/table/manuscript note output.,1151,8c57e9e45eff65dec9bc0232aa0ae11a44b5c09e0bd8efa4372b1f86ecbb29db
+summary_output,raspa/outputs/summary_tables/MANUSCRIPT_UPDATE_MAP.txt,Recovered GCMC summary/table/manuscript note output.,4728,5b625805ee0829ed5a8c312f0f4cc46815696379d8332616e39121bbce7f1329
+summary_output,raspa/outputs/summary_tables/MINE_UV_REBASED_BULK_DENSITY.csv,Recovered GCMC summary/table/manuscript note output.,766,32dcd1bf461ade8b581cbf20b7d8d535a1787a20c893c8731a970de3659d8734
+summary_output,raspa/outputs/summary_tables/MINE_vs_DATASETS_PS.csv,Recovered GCMC summary/table/manuscript note output.,594,b184b159572f30cb9384268dd3c75f4cdff4b617d103ebc8068199c877530d11
+summary_output,raspa/outputs/summary_tables/MINE_vs_DATASETS_TPS.csv,Recovered GCMC summary/table/manuscript note output.,601,b85978df5d1a78f89185e49bf17853bd17576f29a0bdcaec5542dc037863faa4
+summary_output,raspa/outputs/summary_tables/MISMATCH_SIGNATURES.csv,Recovered GCMC summary/table/manuscript note output.,1228,8dd6e1cf70db92479653f25ce57e540f1ee714eca263bfaf5a987df7cc641bb6
+summary_output,raspa/outputs/summary_tables/ML_TOP3_SELECTION_TABLE.csv,Recovered GCMC summary/table/manuscript note output.,633,433e9947bb79aeb523fd7b1964e6c1c761e2896f10643163565511a050cd8d52
+summary_output,raspa/outputs/summary_tables/OBJECTIVES_PATCH.txt,Recovered GCMC summary/table/manuscript note output.,951,d2a032909bccf69f2077492379a9704eb1e6b7a5fa5512f69b5de189246b3589
+summary_output,raspa/outputs/summary_tables/PANEL_QA_NOTE.txt,Recovered GCMC summary/table/manuscript note output.,1210,28ca85f8740c4d25ac9606e4edf57bab9c558dfb7cbdec069505bf35009a84ed
+summary_output,raspa/outputs/summary_tables/raspa_run_stdout.txt,Recovered GCMC summary/table/manuscript note output.,132,0279ebfbfd0a806cd867803687fcadca6645fa3341de51e8f5c0f6d39394dd6d
+summary_output,raspa/outputs/summary_tables/RESULTS_DISCUSSION_PATCH.txt,Recovered GCMC summary/table/manuscript note output.,2792,3f293b30d6e8fe0ead54f2036dfc38c99f08c9d770760e3fe79bf6ea92c1e1dc
+summary_output,raspa/outputs/summary_tables/SUMMARY_STATS.txt,Recovered GCMC summary/table/manuscript note output.,945,b9ac55effa3859c98360868d2d8b5f4bca0716e1c1daaf31cf4d3ccd74d29cf9
+summary_output,raspa/outputs/summary_tables/TOP3_ML_PLUS_GCMC_TABLE.csv,Recovered GCMC summary/table/manuscript note output.,729,0f83843e7634a89e4e7482a340442e67d473a4d20c9b96efa859116d2a2bf862
+summary_output,raspa/outputs/summary_tables/TOP3_ML_VERIFICATION_TABLE.csv,Recovered GCMC summary/table/manuscript note output.,379,431b641563ee8f5145a861347e964a423f4c58b40e564bfbe850402fc92f85ed
+summary_output,raspa/outputs/summary_tables/VAGMAT_PS_TPS_corrected_summary.csv,Recovered GCMC summary/table/manuscript note output.,1036,4b5eb7ec0fff228283f2e467a6e9b5e7912b974529cea01c94e8fe796fe81a8a
+summary_output,raspa/outputs/summary_tables/VAGMAT_PS_TPS_summary.csv,Recovered GCMC summary/table/manuscript note output.,1084,0543183c7da49118ac0cc91bea2765e30c53515f712e730ef826fa457d1d02b8
+summary_output,raspa/outputs/summary_tables/XAFFAN_PS_TPS_corrected_summary.csv,Recovered GCMC summary/table/manuscript note output.,1029,bafeef4d0ba83f148043c65ce127a219bf324cd278840521180a888d1def2d41
+summary_output,raspa/outputs/summary_tables/XAFFAN_PS_TPS_summary.csv,Recovered GCMC summary/table/manuscript note output.,859,bcf51ffbcf5347d849dbe80648af8dfd56fef62e7842f1a9e6cdb31186ffe352
+summary_output,raspa/outputs/summary_tables/XAFFIV_PS_TPS_corrected_summary.csv,Recovered GCMC summary/table/manuscript note output.,1030,88f250fab03f5ef6e81a3475fe19a1667018a2f71f33f1bcecdcb7202552af4d
+summary_output,raspa/outputs/summary_tables/XAFFIV_PS_TPS_summary.csv,Recovered GCMC summary/table/manuscript note output.,863,eda3e541c45d4b29d4de6379924a9a8fc8fefe99630784edd21efd81159499f8
+summary_output,raspa/outputs/summary_tables/XUJCUB_PS_TPS_corrected_summary.csv,Recovered GCMC summary/table/manuscript note output.,813,c1561f8f978f6d4f98214166b15b6f288d80de6d32d66993c53cd85279b9d01c
+summary_output,raspa/outputs/summary_tables/XUJCUB_PS_TPS_summary.csv,Recovered GCMC summary/table/manuscript note output.,645,a539cdcd837d0a0fd61b359f1e9a20269880512faa94ffe68222c28be74205da
+script,raspa/scripts/legacy/audit_h2_runs.sh,Recovered RASPA helper/provenance script.,7785,f5e615f11b5f268c9e2412f9a88fb0862b63230f031766d915c532cbf37c9b3d
+script,raspa/scripts/legacy/build_raspa_tables.py,Recovered RASPA helper/provenance script.,27553,36019f9b20536369916e4930111d01a80676ee8e9f5ec0bc98cadcd1a8a8ef67
+script,raspa/scripts/legacy/build_thesis_tables.py,Recovered RASPA helper/provenance script.,12399,85af6881616c5db08b03ff2236e7fb4f687f0d2e494f220e18090c1dc00658b9
+script,raspa/scripts/legacy/diagnose_mismatch.py,Recovered RASPA helper/provenance script.,7347,6224cc511fceeacaebb1eaf1af0ffa99e1ab23f54a0ef51514d93b193aeef8e5
+script,raspa/scripts/legacy/generate_final_thesis_artifacts.py,Recovered RASPA helper/provenance script.,29399,a0dde2f229fa5a56eb41a17a403884a793ad980e083e8a42c4349533100cf90a
+script,raspa/scripts/legacy/generate_thesis_tables.py,Recovered RASPA helper/provenance script.,14462,8a3d7c72ee8d9dfb7fd31ca7fd2cebae374d372c2189cb9e0a1b9ead5ffe6c60
+script,raspa/scripts/legacy/make_figures.py,Recovered RASPA helper/provenance script.,8903,a48d0ae2ec1aabfd600aab76dc9896bfd5e94d48d7718826eb8202d0ed1fea19
+script,raspa/scripts/legacy/make_figures_svg.py,Recovered RASPA helper/provenance script.,19372,bb53cf82a0798d2f8a851fdc763c5832f14349f5a81935c8144943226c59eb49
+script,raspa/scripts/legacy/make_figures_svg_v2.py,Recovered RASPA helper/provenance script.,19242,5fad8f52e119d9c217409dd86e9f25012721fb2a12382dee838e41a273219709
+script,raspa/scripts/legacy/rebase_uv_bulk_density.py,Recovered RASPA helper/provenance script.,2277,aa1f2aa38ee580d37b180e0d6560af77b0942c5efd95f9d6d136e60aa25a0cfd
+script,raspa/scripts/legacy/run_ps_tps_cases.sh,Recovered RASPA helper/provenance script.,6137,d3871ff4741361916c01417ed14e6705a47b8cab0fb72063608726bdc405a935
+script,raspa/scripts/README.md,Recovered RASPA helper/provenance script.,554,387c196d3d9d181eed0432e262b8f3c368b361d10c77d3d82d0a8506c4b09740

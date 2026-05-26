@@ -1,0 +1,10 @@
+record_type,case,temperature_K,pressure_Pa,avg_loading_mg_per_g,avg_loading_mol_per_kg,framework_density_kg_per_m3,swap_add_accepted,swap_del_accepted,wt_percent,g_H2_per_L,output_file
+case,PS_high,77.0,10000000.0,86.4526192684,85.7715928214,364.744464588648,2479539.0,2479539.0,8.64526192684,63.066228654678994,/home/bienv/raspa_runs/H2_in_MOF/PS_high/Output/System_0/output_VAGMAT_clean_1.1.1_77.000000_1e+07.data
+case,PS_low,77.0,500000.0,24.0451446842,23.8557301865,364.744464588648,1533630.0,1533627.0,2.40451446842,17.54066684757621,/home/bienv/raspa_runs/H2_in_MOF/PS_low/Output/System_0/output_VAGMAT_clean_1.1.1_77.000000_500000.data
+case,TPS_low,160.0,500000.0,2.2277729235,2.210223747,364.744464588648,1173389.0,1173390.0,0.22277729235,1.6251356844515246,/home/bienv/raspa_runs/H2_in_MOF/TPS_low/Output/System_0/output_VAGMAT_clean_1.1.1_160.000000_500000.data
+
+record_type,metric,value
+deliverable,UG_PS_wt_percent,6.24074745842
+deliverable,UV_PS_g_per_L,45.52556180710278
+deliverable,UG_TPS_wt_percent,8.42248463449
+deliverable,UV_TPS_g_per_L,61.44109297022747

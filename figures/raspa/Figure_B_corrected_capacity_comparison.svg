@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1260" viewBox="0 0 1600 1260">
+<rect x="0" y="0" width="1600" height="1260" fill="#ffffff"/>
+<defs>
+<pattern id="diagHatchB" patternUnits="userSpaceOnUse" width="8" height="8" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" stroke="#777" stroke-width="2"/></pattern>
+</defs>
+<text x="800.00" y="48.00" font-size="30" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" >Figure B: Corrected Capacity Comparison</text>
+<text x="800.00" y="82.00" font-size="20" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" >RF Predicted vs Corrected GCMC</text>
+<rect x="1170.00" y="100.00" width="28.00" height="18.00" fill="#bdbdbd" stroke="#111" stroke-width="1.20" />
+<text x="1208.00" y="114.00" font-size="14" text-anchor="start" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" >Predicted (RF)</text>
+<rect x="1360.00" y="100.00" width="28.00" height="18.00" fill="url(#diagHatchB)" stroke="#111" stroke-width="1.60" stroke-dasharray="5,2"/>
+<text x="1398.00" y="114.00" font-size="14" text-anchor="start" font-weight="normal" fill="#111" font-family="Arial, Helvetica, sans-serif" >Corrected GCMC</text>
+<line x1="130.00" y1="570.00" x2="1530.00" y2="570.00" stroke="#d8d8d8" stroke-width="1.00" />
+<text x="120.00" y="574.00" font-size="13" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >0.000</text>
+<line x1="130.00" y1="486.00" x2="1530.00" y2="486.00" stroke="#d8d8d8" stroke-width="1.00" />
+<text x="120.00" y="490.00" font-size="13" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >4.013</text>
+<line x1="130.00" y1="402.00" x2="1530.00" y2="402.00" stroke="#d8d8d8" stroke-width="1.00" />
+<text x="120.00" y="406.00" font-size="13" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >8.026</text>
+<line x1="130.00" y1="318.00" x2="1530.00" y2="318.00" stroke="#d8d8d8" stroke-width="1.00" />
+<text x="120.00" y="322.00" font-size="13" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >12.04</text>
+<line x1="130.00" y1="234.00" x2="1530.00" y2="234.00" stroke="#d8d8d8" stroke-width="1.00" />
+<text x="120.00" y="238.00" font-size="13" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >16.05</text>
+<line x1="130.00" y1="150.00" x2="1530.00" y2="150.00" stroke="#d8d8d8" stroke-width="1.00" />
+<text x="120.00" y="154.00" font-size="13" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >20.06</text>
+<line x1="130.00" y1="150.00" x2="130.00" y2="570.00" stroke="#111" stroke-width="2.00" />
+<line x1="130.00" y1="570.00" x2="1530.00" y2="570.00" stroke="#111" stroke-width="2.00" />
+<text x="68.00" y="360.00" font-size="18" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 68.00 360.00)">Capacity (wt%)</text>
+<text x="830.00" y="132.00" font-size="22" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" >UG Metrics (wt%)</text>
+<rect x="167.33" y="392.16" width="65.33" height="177.84" fill="#bdbdbd" stroke="#111" stroke-width="1.20" />
+<rect x="246.67" y="308.32" width="65.33" height="261.68" fill="url(#diagHatchB)" stroke="#111" stroke-width="1.80" stroke-dasharray="5,2"/>
+<rect x="368.00" y="316.71" width="65.33" height="253.29" fill="#bdbdbd" stroke="#111" stroke-width="1.20" />
+<rect x="447.33" y="216.98" width="65.33" height="353.02" fill="url(#diagHatchB)" stroke="#111" stroke-width="1.80" stroke-dasharray="5,2"/>
+<text x="239.67" y="586.00" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" font-family="Arial, Helvetica, sans-serif" >PS</text>
+<text x="440.33" y="586.00" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" font-family="Arial, Helvetica, sans-serif" >TPS</text>
+<text x="340.00" y="606.00" font-size="13" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" >VAGMAT</text>
+<rect x="634.00" y="395.98" width="65.33" height="174.02" fill="#bdbdbd" stroke="#111" stroke-width="1.20" />
+<rect x="713.33" y="309.16" width="65.33" height="260.84" fill="url(#diagHatchB)" stroke="#111" stroke-width="1.80" stroke-dasharray="5,2"/>
+<rect x="834.67" y="321.84" width="65.33" height="248.16" fill="#bdbdbd" stroke="#111" stroke-width="1.20" />
+<rect x="914.00" y="218.36" width="65.33" height="351.64" fill="url(#diagHatchB)" stroke="#111" stroke-width="1.80" stroke-dasharray="5,2"/>
+<text x="706.33" y="586.00" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" font-family="Arial, Helvetica, sans-serif" >PS</text>
+<text x="907.00" y="586.00" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" font-family="Arial, Helvetica, sans-serif" >TPS</text>
+<text x="806.67" y="606.00" font-size="13" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" >XAFFAN</text>
+<rect x="1100.67" y="391.37" width="65.33" height="178.63" fill="#bdbdbd" stroke="#111" stroke-width="1.20" />
+<rect x="1180.00" y="303.02" width="65.33" height="266.98" fill="url(#diagHatchB)" stroke="#111" stroke-width="1.80" stroke-dasharray="5,2"/>
+<rect x="1301.33" y="317.50" width="65.33" height="252.50" fill="#bdbdbd" stroke="#111" stroke-width="1.20" />
+<rect x="1380.67" y="214.07" width="65.33" height="355.93" fill="url(#diagHatchB)" stroke="#111" stroke-width="1.80" stroke-dasharray="5,2"/>
+<text x="1173.00" y="586.00" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" font-family="Arial, Helvetica, sans-serif" >PS</text>
+<text x="1373.67" y="586.00" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" font-family="Arial, Helvetica, sans-serif" >TPS</text>
+<text x="1273.33" y="606.00" font-size="13" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" >XAFFIV</text>
+<line x1="130.00" y1="1120.00" x2="1530.00" y2="1120.00" stroke="#d8d8d8" stroke-width="1.00" />
+<text x="120.00" y="1124.00" font-size="13" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >0.000</text>
+<line x1="130.00" y1="1036.00" x2="1530.00" y2="1036.00" stroke="#d8d8d8" stroke-width="1.00" />
+<text x="120.00" y="1040.00" font-size="13" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >14.52</text>
+<line x1="130.00" y1="952.00" x2="1530.00" y2="952.00" stroke="#d8d8d8" stroke-width="1.00" />
+<text x="120.00" y="956.00" font-size="13" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >29.03</text>
+<line x1="130.00" y1="868.00" x2="1530.00" y2="868.00" stroke="#d8d8d8" stroke-width="1.00" />
+<text x="120.00" y="872.00" font-size="13" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >43.55</text>
+<line x1="130.00" y1="784.00" x2="1530.00" y2="784.00" stroke="#d8d8d8" stroke-width="1.00" />
+<text x="120.00" y="788.00" font-size="13" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >58.07</text>
+<line x1="130.00" y1="700.00" x2="1530.00" y2="700.00" stroke="#d8d8d8" stroke-width="1.00" />
+<text x="120.00" y="704.00" font-size="13" text-anchor="end" font-weight="normal" fill="#333" font-family="Arial, Helvetica, sans-serif" >72.59</text>
+<line x1="130.00" y1="700.00" x2="130.00" y2="1120.00" stroke="#111" stroke-width="2.00" />
+<line x1="130.00" y1="1120.00" x2="1530.00" y2="1120.00" stroke="#111" stroke-width="2.00" />
+<text x="68.00" y="910.00" font-size="18" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" transform="rotate(-90 68.00 910.00)">Capacity (g/L)</text>
+<text x="830.00" y="682.00" font-size="22" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" >UV Metrics (g/L)</text>
+<rect x="167.33" y="908.94" width="65.33" height="211.06" fill="#bdbdbd" stroke="#111" stroke-width="1.20" />
+<rect x="246.67" y="856.16" width="65.33" height="263.84" fill="url(#diagHatchB)" stroke="#111" stroke-width="1.80" stroke-dasharray="5,2"/>
+<rect x="368.00" y="829.62" width="65.33" height="290.38" fill="#bdbdbd" stroke="#111" stroke-width="1.20" />
+<rect x="447.33" y="764.07" width="65.33" height="355.93" fill="url(#diagHatchB)" stroke="#111" stroke-width="1.80" stroke-dasharray="5,2"/>
+<text x="239.67" y="1136.00" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" font-family="Arial, Helvetica, sans-serif" >PS</text>
+<text x="440.33" y="1136.00" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" font-family="Arial, Helvetica, sans-serif" >TPS</text>
+<text x="340.00" y="1156.00" font-size="13" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" >VAGMAT</text>
+<rect x="634.00" y="909.31" width="65.33" height="210.69" fill="#bdbdbd" stroke="#111" stroke-width="1.20" />
+<rect x="713.33" y="856.68" width="65.33" height="263.32" fill="url(#diagHatchB)" stroke="#111" stroke-width="1.80" stroke-dasharray="5,2"/>
+<rect x="834.67" y="829.57" width="65.33" height="290.43" fill="#bdbdbd" stroke="#111" stroke-width="1.20" />
+<rect x="914.00" y="765.02" width="65.33" height="354.98" fill="url(#diagHatchB)" stroke="#111" stroke-width="1.80" stroke-dasharray="5,2"/>
+<text x="706.33" y="1136.00" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" font-family="Arial, Helvetica, sans-serif" >PS</text>
+<text x="907.00" y="1136.00" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" font-family="Arial, Helvetica, sans-serif" >TPS</text>
+<text x="806.67" y="1156.00" font-size="13" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" >XAFFAN</text>
+<rect x="1100.67" y="908.37" width="65.33" height="211.63" fill="#bdbdbd" stroke="#111" stroke-width="1.20" />
+<rect x="1180.00" y="855.50" width="65.33" height="264.50" fill="url(#diagHatchB)" stroke="#111" stroke-width="1.80" stroke-dasharray="5,2"/>
+<rect x="1301.33" y="831.89" width="65.33" height="288.11" fill="#bdbdbd" stroke="#111" stroke-width="1.20" />
+<rect x="1380.67" y="767.38" width="65.33" height="352.62" fill="url(#diagHatchB)" stroke="#111" stroke-width="1.80" stroke-dasharray="5,2"/>
+<text x="1173.00" y="1136.00" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" font-family="Arial, Helvetica, sans-serif" >PS</text>
+<text x="1373.67" y="1136.00" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" font-family="Arial, Helvetica, sans-serif" >TPS</text>
+<text x="1273.33" y="1156.00" font-size="13" text-anchor="middle" font-weight="bold" fill="#111" font-family="Arial, Helvetica, sans-serif" >XAFFIV</text>
+</svg>

@@ -1,0 +1,7 @@
+MOF,my_UG_PS_wt_pct,my_UV_PS_g_L,my_UG_TPS_wt_pct,my_UV_TPS_g_L,hymarc_UG_PS_wt_pct,hymarc_UV_PS_g_L,hymarc_UG_TPS_wt_pct,hymarc_UV_TPS_g_L,delta_UG_PS_pct,delta_UV_PS_pct,delta_UG_TPS_pct,delta_UV_TPS_pct,match_status,notes
+CAXPIC,0.033990,0.641859,0.176164,3.326614,,,,,,,,,NO_HYMARC_FILE,Missing ~/hymarc/hymarc_PS.file and ~/hymarc/hymarc_TPS.file
+ECOTOG,0.004199,0.077042,0.004423,0.081165,,,,,,,,,NO_HYMARC_FILE,Missing ~/hymarc/hymarc_PS.file and ~/hymarc/hymarc_TPS.file
+VAGMAT,,,,,,,,,,,,,NO_HYMARC_FILE,Missing ~/hymarc/hymarc_PS.file and ~/hymarc/hymarc_TPS.file
+XAFFAN,12.461176,45.507827,16.798910,61.349098,,,,,,,,,NO_HYMARC_FILE,Missing ~/hymarc/hymarc_PS.file and ~/hymarc/hymarc_TPS.file
+XAFFIV,12.754279,45.710606,17.003783,60.940582,,,,,,,,,NO_HYMARC_FILE,Missing ~/hymarc/hymarc_PS.file and ~/hymarc/hymarc_TPS.file
+XUJCUB,0.000000,0.000000,0.000000,0.000000,,,,,,,,,NO_HYMARC_FILE,Missing ~/hymarc/hymarc_PS.file and ~/hymarc/hymarc_TPS.file

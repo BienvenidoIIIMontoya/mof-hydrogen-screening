@@ -1,0 +1,62 @@
+MANUAL REVISION CHECKLIST (PDF parsing not required)
+
+Source manuscript file present: /home/bienv/raspa_runs/H2_in_MOF/_inputs/Montoya, Bienvenido_Written Thesis.pdf
+This checklist is based on the finalized thesis logic provided by the author and should be applied even if the current PDF text is not machine-extracted.
+
+1) Abstract
+- What must be updated:
+  Replace any wording that implies all RF top-3 MOFs were benchmarked directly against the HyMARC GCMC benchmark set.
+  Replace any wording that treats XAFFAN and XAFFIV as benchmark mismatch cases.
+  Remove any legacy-capacity wording that may rely on incorrect H_h2 mass conversion in old mg/g outputs.
+- Corrected thesis logic to insert:
+  RF screening using 7 descriptors selected VAGMAT, XAFFAN, and XAFFIV.
+  Only VAGMAT is in the true HyMARC GCMC overlap and can be benchmark-compared.
+  XAFFAN and XAFFIV are true HyMARC benchmark N/A cases and are reported as ML-selected candidates validated using the author's corrected GCMC runs.
+  Final capacities use corrected usable values derived from mol/kg (not legacy wrong mg/g values affected by the resolved H_h2 mass issue).
+
+2) Research Objectives
+- What must be updated:
+  Separate the objective of benchmarking overlap MOFs from the objective of validating newly selected ML candidates that are absent from the benchmark dataset.
+  Avoid language implying benchmark validation is available for every ML-selected top candidate.
+- Corrected thesis logic to insert:
+  Objective A: benchmark agreement assessment only on the true HyMARC overlap set.
+  Objective B: independent GCMC validation of ML-selected candidates when no benchmark entry exists (XAFFAN, XAFFIV).
+  Objective C: integrate ML ranking and corrected GCMC simulation into a coherent discovery-and-validation workflow.
+
+3) Scope and Limitations
+- What must be updated:
+  Explicitly define the benchmark scope as the true overlap between the working MOF set and the HyMARC GCMC benchmark dataset.
+  Add a limitation that benchmark datasets may not contain all top ML-selected candidates.
+  Add a methods note on corrected capacity reporting after the resolved legacy mass-conversion issue.
+- Corrected thesis logic to insert:
+  Benchmark statistics are computed only for overlap MOFs with actual HyMARC values.
+  XAFFAN and XAFFIV are excluded from benchmark error statistics because they are not in the true HyMARC benchmark set.
+  Candidate MOFs absent from benchmark datasets can still be scientifically valid outcomes when validated by the author's own corrected GCMC runs.
+  Final usable capacities are reported from mol/kg-derived corrected values.
+
+4) Results and Discussion
+- What must be updated:
+  Reframe top-3 discussion so that VAGMAT is the principal benchmark-comparison case, while XAFFAN and XAFFIV are ML-selected validation cases.
+  Remove/replace any statement interpreting XAFFAN/XAFFIV as benchmark disagreement or benchmark error.
+  Add explicit explanation of corrected GCMC values and why they supersede legacy wrong mg/g outputs.
+  If Chapter 4 contains placeholder/template text, replace it with the finalized benchmark-vs-validation narrative and table references.
+- Corrected thesis logic to insert:
+  The RF model selected VAGMAT, XAFFAN, and XAFFIV as top candidates using 7 descriptors.
+  VAGMAT is the key overlap MOF for benchmark comparison against HyMARC.
+  XAFFAN and XAFFIV are absent from the true benchmark set and are instead validated via corrected author-run GCMC simulations.
+  Bottom-control MOFs (e.g., ECOTOG, XUJCUB, CAXPIC) contextualize ranking separation by showing much lower predicted and corrected capacities.
+
+5) Table Captions (validation/benchmark tables)
+- What must be updated:
+  Any caption that implies 'top-3 benchmark validation' should be split or rewritten to distinguish benchmark overlap from ML+own-GCMC validation.
+  Any caption describing XAFFAN/XAFFIV as benchmark entries should be corrected.
+- Corrected thesis logic to insert:
+  ML top-3 selection table: ranking output only.
+  ML + GCMC table: top-3 candidates with RF predictions and corrected author GCMC results; benchmark status explicitly marked.
+  Final benchmark table: benchmark-only comparison on true HyMARC overlap MOFs; excludes XAFFAN/XAFFIV from benchmark error calculations.
+
+6) Contents / Chapter 4 housekeeping (manual check)
+- What must be updated:
+  Inspect table titles, list-of-tables entries, and any placeholders/template remnants for consistency with the corrected benchmark/validation separation.
+- Corrected thesis logic to insert:
+  Ensure all chapter and table wording consistently distinguishes benchmark overlap cases from author-validated ML-selected candidates absent from benchmark datasets.

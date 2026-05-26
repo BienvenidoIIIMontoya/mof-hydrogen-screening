@@ -1,0 +1,236 @@
+{
+  "random_forest": {
+    "model_label": "RF",
+    "suffix": "rf",
+    "source_notebook_original_name": "[FINALE]_Random_Forest.ipynb",
+    "tasks": {
+      "PS_UG": {
+        "n_estimators": 100,
+        "min_samples_split": 2,
+        "min_samples_leaf": 1,
+        "max_features": "log2",
+        "max_depth": 12,
+        "bootstrap": false
+      },
+      "PS_UV": {
+        "n_estimators": 300,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_features": null,
+        "max_depth": null,
+        "bootstrap": true
+      },
+      "TPS_UG": {
+        "n_estimators": 500,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_features": 0.5,
+        "max_depth": 20,
+        "bootstrap": false
+      },
+      "TPS_UV": {
+        "n_estimators": 500,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_features": 0.5,
+        "max_depth": 20,
+        "bootstrap": false
+      }
+    }
+  },
+  "extra_trees": {
+    "model_label": "ERT",
+    "suffix": "ert",
+    "source_notebook_original_name": "[FINALE]_ERT.ipynb",
+    "tasks": {
+      "PS_UG": {
+        "n_estimators": 400,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_features": null,
+        "max_depth": 32,
+        "bootstrap": false
+      },
+      "PS_UV": {
+        "n_estimators": 400,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_features": null,
+        "max_depth": 32,
+        "bootstrap": false
+      },
+      "TPS_UG": {
+        "n_estimators": 400,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_features": null,
+        "max_depth": 32,
+        "bootstrap": false
+      },
+      "TPS_UV": {
+        "n_estimators": 400,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_features": null,
+        "max_depth": 32,
+        "bootstrap": false
+      }
+    }
+  },
+  "hist_gradient_boosting": {
+    "model_label": "HGB",
+    "suffix": "hgb",
+    "source_notebook_original_name": "[FINALE]_HistGradientRegressor.ipynb",
+    "tasks": {
+      "PS_UG": {
+        "scoring": "loss",
+        "min_samples_leaf": 1,
+        "max_leaf_nodes": 31,
+        "max_iter": 200,
+        "max_depth": null,
+        "learning_rate": 0.03,
+        "l2_regularization": 0.1,
+        "early_stopping": false
+      },
+      "PS_UV": {
+        "scoring": "loss",
+        "min_samples_leaf": 2,
+        "max_leaf_nodes": 63,
+        "max_iter": 100,
+        "max_depth": 6,
+        "learning_rate": 0.1,
+        "l2_regularization": 0.0,
+        "early_stopping": false
+      },
+      "TPS_UG": {
+        "scoring": "loss",
+        "min_samples_leaf": 1,
+        "max_leaf_nodes": 31,
+        "max_iter": 200,
+        "max_depth": null,
+        "learning_rate": 0.03,
+        "l2_regularization": 0.1,
+        "early_stopping": false
+      },
+      "TPS_UV": {
+        "scoring": "loss",
+        "min_samples_leaf": 2,
+        "max_leaf_nodes": 63,
+        "max_iter": 100,
+        "max_depth": 6,
+        "learning_rate": 0.1,
+        "l2_regularization": 0.0,
+        "early_stopping": false
+      }
+    }
+  },
+  "knn": {
+    "model_label": "KNN",
+    "suffix": "knn",
+    "source_notebook_original_name": "[FINALE]_KNN.ipynb",
+    "tasks": {
+      "PS_UG": {
+        "knn__weights": "distance",
+        "knn__p": 2,
+        "knn__n_neighbors": 4,
+        "knn__leaf_size": 30
+      },
+      "PS_UV": {
+        "knn__weights": "distance",
+        "knn__p": 1,
+        "knn__n_neighbors": 11,
+        "knn__leaf_size": 20
+      },
+      "TPS_UG": {
+        "knn__weights": "distance",
+        "knn__p": 2,
+        "knn__n_neighbors": 4,
+        "knn__leaf_size": 30
+      },
+      "TPS_UV": {
+        "knn__weights": "distance",
+        "knn__p": 1,
+        "knn__n_neighbors": 11,
+        "knn__leaf_size": 20
+      }
+    }
+  },
+  "support_vector_regressor": {
+    "model_label": "SVR",
+    "suffix": "svr",
+    "source_notebook_original_name": "[FINALE]_Support_Vector_Regressor.ipynb",
+    "tasks": {
+      "PS_UG": {
+        "svr__gamma": 0.001,
+        "svr__epsilon": 0.2,
+        "svr__C": 100
+      },
+      "PS_UV": {
+        "svr__gamma": 0.01,
+        "svr__epsilon": 0.1,
+        "svr__C": 1000
+      },
+      "TPS_UG": {
+        "svr__gamma": 0.001,
+        "svr__epsilon": 0.2,
+        "svr__C": 100
+      },
+      "TPS_UV": {
+        "svr__gamma": 0.1,
+        "svr__epsilon": 0.1,
+        "svr__C": 100
+      }
+    }
+  },
+  "lightgbm": {
+    "model_label": "LGBM",
+    "suffix": "lgbm",
+    "source_notebook_original_name": "[FINALE]_LightGBM.ipynb",
+    "tasks": {
+      "PS_UG": {
+        "subsample": 0.6,
+        "reg_lambda": 0.0,
+        "reg_alpha": 0.0,
+        "num_leaves": 50,
+        "n_estimators": 800,
+        "min_child_samples": 5,
+        "max_depth": 8,
+        "learning_rate": 0.05,
+        "colsample_bytree": 0.6
+      },
+      "PS_UV": {
+        "subsample": 0.8,
+        "reg_lambda": 0.01,
+        "reg_alpha": 0.01,
+        "num_leaves": 80,
+        "n_estimators": 200,
+        "min_child_samples": 20,
+        "max_depth": 8,
+        "learning_rate": 0.05,
+        "colsample_bytree": 0.8
+      },
+      "TPS_UG": {
+        "subsample": 0.6,
+        "reg_lambda": 0.0,
+        "reg_alpha": 0.0,
+        "num_leaves": 50,
+        "n_estimators": 800,
+        "min_child_samples": 5,
+        "max_depth": 8,
+        "learning_rate": 0.05,
+        "colsample_bytree": 0.6
+      },
+      "TPS_UV": {
+        "subsample": 0.6,
+        "reg_lambda": 0.0,
+        "reg_alpha": 0.0,
+        "num_leaves": 50,
+        "n_estimators": 800,
+        "min_child_samples": 5,
+        "max_depth": 8,
+        "learning_rate": 0.05,
+        "colsample_bytree": 0.6
+      }
+    }
+  }
+}

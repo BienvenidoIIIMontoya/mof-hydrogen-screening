@@ -1,0 +1,690 @@
+[
+  {
+    "model": "RF",
+    "task": "PS_UG",
+    "kind": "best",
+    "path": "models/random_forest/best_rf_PS_UG.joblib",
+    "exists": true,
+    "size_bytes": 3239478,
+    "params": {
+      "n_estimators": 100,
+      "min_samples_split": 2,
+      "min_samples_leaf": 1,
+      "max_features": "log2",
+      "max_depth": 12,
+      "bootstrap": false
+    }
+  },
+  {
+    "model": "RF",
+    "task": "PS_UG",
+    "kind": "final",
+    "path": "models/random_forest/final_rf_PS_UG.joblib",
+    "exists": true,
+    "size_bytes": 3592117,
+    "params": {
+      "n_estimators": 100,
+      "min_samples_split": 2,
+      "min_samples_leaf": 1,
+      "max_features": "log2",
+      "max_depth": 12,
+      "bootstrap": false
+    }
+  },
+  {
+    "model": "RF",
+    "task": "PS_UV",
+    "kind": "best",
+    "path": "models/random_forest/best_rf_PS_UV.joblib",
+    "exists": true,
+    "size_bytes": 12273789,
+    "params": {
+      "n_estimators": 300,
+      "min_samples_split": 2,
+      "min_samples_leaf": 2,
+      "max_features": null,
+      "max_depth": null,
+      "bootstrap": true
+    }
+  },
+  {
+    "model": "RF",
+    "task": "PS_UV",
+    "kind": "final",
+    "path": "models/random_forest/final_rf_PS_UV.joblib",
+    "exists": true,
+    "size_bytes": 16097694,
+    "params": {
+      "n_estimators": 300,
+      "min_samples_split": 2,
+      "min_samples_leaf": 2,
+      "max_features": null,
+      "max_depth": null,
+      "bootstrap": true
+    }
+  },
+  {
+    "model": "RF",
+    "task": "TPS_UG",
+    "kind": "best",
+    "path": "models/random_forest/best_rf_TPS_UG.joblib",
+    "exists": true,
+    "size_bytes": 26315194,
+    "params": {
+      "n_estimators": 500,
+      "min_samples_split": 2,
+      "min_samples_leaf": 2,
+      "max_features": 0.5,
+      "max_depth": 20,
+      "bootstrap": false
+    }
+  },
+  {
+    "model": "RF",
+    "task": "TPS_UG",
+    "kind": "final",
+    "path": "models/random_forest/final_rf_TPS_UG.joblib",
+    "exists": true,
+    "size_bytes": 34484481,
+    "params": {
+      "n_estimators": 500,
+      "min_samples_split": 2,
+      "min_samples_leaf": 2,
+      "max_features": 0.5,
+      "max_depth": 20,
+      "bootstrap": false
+    }
+  },
+  {
+    "model": "RF",
+    "task": "TPS_UV",
+    "kind": "best",
+    "path": "models/random_forest/best_rf_TPS_UV.joblib",
+    "exists": true,
+    "size_bytes": 29260391,
+    "params": {
+      "n_estimators": 500,
+      "min_samples_split": 2,
+      "min_samples_leaf": 2,
+      "max_features": 0.5,
+      "max_depth": 20,
+      "bootstrap": false
+    }
+  },
+  {
+    "model": "RF",
+    "task": "TPS_UV",
+    "kind": "final",
+    "path": "models/random_forest/final_rf_TPS_UV.joblib",
+    "exists": true,
+    "size_bytes": 38532186,
+    "params": {
+      "n_estimators": 500,
+      "min_samples_split": 2,
+      "min_samples_leaf": 2,
+      "max_features": 0.5,
+      "max_depth": 20,
+      "bootstrap": false
+    }
+  },
+  {
+    "model": "ERT",
+    "task": "PS_UG",
+    "kind": "best",
+    "path": "models/extra_trees/best_ert_PS_UG.joblib",
+    "exists": true,
+    "size_bytes": 22856354,
+    "params": {
+      "n_estimators": 400,
+      "min_samples_split": 2,
+      "min_samples_leaf": 2,
+      "max_features": null,
+      "max_depth": 32,
+      "bootstrap": false
+    }
+  },
+  {
+    "model": "ERT",
+    "task": "PS_UG",
+    "kind": "final",
+    "path": "models/extra_trees/final_ert_PS_UG.joblib",
+    "exists": true,
+    "size_bytes": 30313395,
+    "params": {
+      "n_estimators": 400,
+      "min_samples_split": 2,
+      "min_samples_leaf": 2,
+      "max_features": null,
+      "max_depth": 32,
+      "bootstrap": false
+    }
+  },
+  {
+    "model": "ERT",
+    "task": "PS_UV",
+    "kind": "best",
+    "path": "models/extra_trees/best_ert_PS_UV.joblib",
+    "exists": true,
+    "size_bytes": 25025204,
+    "params": {
+      "n_estimators": 400,
+      "min_samples_split": 2,
+      "min_samples_leaf": 2,
+      "max_features": null,
+      "max_depth": 32,
+      "bootstrap": false
+    }
+  },
+  {
+    "model": "ERT",
+    "task": "PS_UV",
+    "kind": "final",
+    "path": "models/extra_trees/final_ert_PS_UV.joblib",
+    "exists": true,
+    "size_bytes": 34072326,
+    "params": {
+      "n_estimators": 400,
+      "min_samples_split": 2,
+      "min_samples_leaf": 2,
+      "max_features": null,
+      "max_depth": 32,
+      "bootstrap": false
+    }
+  },
+  {
+    "model": "ERT",
+    "task": "TPS_UG",
+    "kind": "best",
+    "path": "models/extra_trees/best_ert_TPS_UG.joblib",
+    "exists": true,
+    "size_bytes": 23563640,
+    "params": {
+      "n_estimators": 400,
+      "min_samples_split": 2,
+      "min_samples_leaf": 2,
+      "max_features": null,
+      "max_depth": 32,
+      "bootstrap": false
+    }
+  },
+  {
+    "model": "ERT",
+    "task": "TPS_UG",
+    "kind": "final",
+    "path": "models/extra_trees/final_ert_TPS_UG.joblib",
+    "exists": true,
+    "size_bytes": 31520148,
+    "params": {
+      "n_estimators": 400,
+      "min_samples_split": 2,
+      "min_samples_leaf": 2,
+      "max_features": null,
+      "max_depth": 32,
+      "bootstrap": false
+    }
+  },
+  {
+    "model": "ERT",
+    "task": "TPS_UV",
+    "kind": "best",
+    "path": "models/extra_trees/best_ert_TPS_UV.joblib",
+    "exists": true,
+    "size_bytes": 25485555,
+    "params": {
+      "n_estimators": 400,
+      "min_samples_split": 2,
+      "min_samples_leaf": 2,
+      "max_features": null,
+      "max_depth": 32,
+      "bootstrap": false
+    }
+  },
+  {
+    "model": "ERT",
+    "task": "TPS_UV",
+    "kind": "final",
+    "path": "models/extra_trees/final_ert_TPS_UV.joblib",
+    "exists": true,
+    "size_bytes": 33852278,
+    "params": {
+      "n_estimators": 400,
+      "min_samples_split": 2,
+      "min_samples_leaf": 2,
+      "max_features": null,
+      "max_depth": 32,
+      "bootstrap": false
+    }
+  },
+  {
+    "model": "HGB",
+    "task": "PS_UG",
+    "kind": "best",
+    "path": "models/hist_gradient_boosting/best_hgb_PS_UG.joblib",
+    "exists": true,
+    "size_bytes": 292297,
+    "params": {
+      "scoring": "loss",
+      "min_samples_leaf": 1,
+      "max_leaf_nodes": 31,
+      "max_iter": 200,
+      "max_depth": null,
+      "learning_rate": 0.03,
+      "l2_regularization": 0.1,
+      "early_stopping": false
+    }
+  },
+  {
+    "model": "HGB",
+    "task": "PS_UG",
+    "kind": "final",
+    "path": "models/hist_gradient_boosting/final_hgb_PS_UG.joblib",
+    "exists": true,
+    "size_bytes": 294785,
+    "params": {
+      "scoring": "loss",
+      "min_samples_leaf": 1,
+      "max_leaf_nodes": 31,
+      "max_iter": 200,
+      "max_depth": null,
+      "learning_rate": 0.03,
+      "l2_regularization": 0.1,
+      "early_stopping": false
+    }
+  },
+  {
+    "model": "HGB",
+    "task": "PS_UV",
+    "kind": "best",
+    "path": "models/hist_gradient_boosting/best_hgb_PS_UV.joblib",
+    "exists": true,
+    "size_bytes": 203386,
+    "params": {
+      "scoring": "loss",
+      "min_samples_leaf": 2,
+      "max_leaf_nodes": 63,
+      "max_iter": 100,
+      "max_depth": 6,
+      "learning_rate": 0.1,
+      "l2_regularization": 0.0,
+      "early_stopping": false
+    }
+  },
+  {
+    "model": "HGB",
+    "task": "PS_UV",
+    "kind": "final",
+    "path": "models/hist_gradient_boosting/final_hgb_PS_UV.joblib",
+    "exists": true,
+    "size_bytes": 211558,
+    "params": {
+      "scoring": "loss",
+      "min_samples_leaf": 2,
+      "max_leaf_nodes": 63,
+      "max_iter": 100,
+      "max_depth": 6,
+      "learning_rate": 0.1,
+      "l2_regularization": 0.0,
+      "early_stopping": false
+    }
+  },
+  {
+    "model": "HGB",
+    "task": "TPS_UG",
+    "kind": "best",
+    "path": "models/hist_gradient_boosting/best_hgb_TPS_UG.joblib",
+    "exists": true,
+    "size_bytes": 299278,
+    "params": {
+      "scoring": "loss",
+      "min_samples_leaf": 1,
+      "max_leaf_nodes": 31,
+      "max_iter": 200,
+      "max_depth": null,
+      "learning_rate": 0.03,
+      "l2_regularization": 0.1,
+      "early_stopping": false
+    }
+  },
+  {
+    "model": "HGB",
+    "task": "TPS_UG",
+    "kind": "final",
+    "path": "models/hist_gradient_boosting/final_hgb_TPS_UG.joblib",
+    "exists": true,
+    "size_bytes": 301460,
+    "params": {
+      "scoring": "loss",
+      "min_samples_leaf": 1,
+      "max_leaf_nodes": 31,
+      "max_iter": 200,
+      "max_depth": null,
+      "learning_rate": 0.03,
+      "l2_regularization": 0.1,
+      "early_stopping": false
+    }
+  },
+  {
+    "model": "HGB",
+    "task": "TPS_UV",
+    "kind": "best",
+    "path": "models/hist_gradient_boosting/best_hgb_TPS_UV.joblib",
+    "exists": true,
+    "size_bytes": 204417,
+    "params": {
+      "scoring": "loss",
+      "min_samples_leaf": 2,
+      "max_leaf_nodes": 63,
+      "max_iter": 100,
+      "max_depth": 6,
+      "learning_rate": 0.1,
+      "l2_regularization": 0.0,
+      "early_stopping": false
+    }
+  },
+  {
+    "model": "HGB",
+    "task": "TPS_UV",
+    "kind": "final",
+    "path": "models/hist_gradient_boosting/final_hgb_TPS_UV.joblib",
+    "exists": true,
+    "size_bytes": 214135,
+    "params": {
+      "scoring": "loss",
+      "min_samples_leaf": 2,
+      "max_leaf_nodes": 63,
+      "max_iter": 100,
+      "max_depth": 6,
+      "learning_rate": 0.1,
+      "l2_regularization": 0.0,
+      "early_stopping": false
+    }
+  },
+  {
+    "model": "KNN",
+    "task": "PS_UG",
+    "kind": "best",
+    "path": "models/knn/best_knn_PS_UG.joblib",
+    "exists": true,
+    "size_bytes": 213405,
+    "params": {
+      "knn__weights": "distance",
+      "knn__p": 2,
+      "knn__n_neighbors": 4,
+      "knn__leaf_size": 30
+    }
+  },
+  {
+    "model": "KNN",
+    "task": "PS_UG",
+    "kind": "final",
+    "path": "models/knn/final_knn_PS_UG.joblib",
+    "exists": true,
+    "size_bytes": 266982,
+    "params": {
+      "knn__weights": "distance",
+      "knn__p": 2,
+      "knn__n_neighbors": 4,
+      "knn__leaf_size": 30
+    }
+  },
+  {
+    "model": "KNN",
+    "task": "PS_UV",
+    "kind": "best",
+    "path": "models/knn/best_knn_PS_UV.joblib",
+    "exists": true,
+    "size_bytes": 222337,
+    "params": {
+      "knn__weights": "distance",
+      "knn__p": 1,
+      "knn__n_neighbors": 11,
+      "knn__leaf_size": 20
+    }
+  },
+  {
+    "model": "KNN",
+    "task": "PS_UV",
+    "kind": "final",
+    "path": "models/knn/final_knn_PS_UV.joblib",
+    "exists": true,
+    "size_bytes": 266836,
+    "params": {
+      "knn__weights": "distance",
+      "knn__p": 1,
+      "knn__n_neighbors": 11,
+      "knn__leaf_size": 20
+    }
+  },
+  {
+    "model": "KNN",
+    "task": "TPS_UG",
+    "kind": "best",
+    "path": "models/knn/best_knn_TPS_UG.joblib",
+    "exists": true,
+    "size_bytes": 215232,
+    "params": {
+      "knn__weights": "distance",
+      "knn__p": 2,
+      "knn__n_neighbors": 4,
+      "knn__leaf_size": 30
+    }
+  },
+  {
+    "model": "KNN",
+    "task": "TPS_UG",
+    "kind": "final",
+    "path": "models/knn/final_knn_TPS_UG.joblib",
+    "exists": true,
+    "size_bytes": 267830,
+    "params": {
+      "knn__weights": "distance",
+      "knn__p": 2,
+      "knn__n_neighbors": 4,
+      "knn__leaf_size": 30
+    }
+  },
+  {
+    "model": "KNN",
+    "task": "TPS_UV",
+    "kind": "best",
+    "path": "models/knn/best_knn_TPS_UV.joblib",
+    "exists": true,
+    "size_bytes": 223728,
+    "params": {
+      "knn__weights": "distance",
+      "knn__p": 1,
+      "knn__n_neighbors": 11,
+      "knn__leaf_size": 20
+    }
+  },
+  {
+    "model": "KNN",
+    "task": "TPS_UV",
+    "kind": "final",
+    "path": "models/knn/final_knn_TPS_UV.joblib",
+    "exists": true,
+    "size_bytes": 267908,
+    "params": {
+      "knn__weights": "distance",
+      "knn__p": 1,
+      "knn__n_neighbors": 11,
+      "knn__leaf_size": 20
+    }
+  },
+  {
+    "model": "SVR",
+    "task": "PS_UG",
+    "kind": "best",
+    "path": "models/support_vector_regressor/best_svr_PS_UG.joblib",
+    "exists": true,
+    "size_bytes": 27789,
+    "params": {
+      "svr__gamma": 0.001,
+      "svr__epsilon": 0.2,
+      "svr__C": 100
+    }
+  },
+  {
+    "model": "SVR",
+    "task": "PS_UG",
+    "kind": "final",
+    "path": "models/support_vector_regressor/final_svr_PS_UG.joblib",
+    "exists": true,
+    "size_bytes": 35156,
+    "params": {
+      "svr__gamma": 0.001,
+      "svr__epsilon": 0.2,
+      "svr__C": 100
+    }
+  },
+  {
+    "model": "SVR",
+    "task": "PS_UV",
+    "kind": "best",
+    "path": "models/support_vector_regressor/best_svr_PS_UV.joblib",
+    "exists": true,
+    "size_bytes": 101229,
+    "params": {
+      "svr__gamma": 0.01,
+      "svr__epsilon": 0.1,
+      "svr__C": 1000
+    }
+  },
+  {
+    "model": "SVR",
+    "task": "PS_UV",
+    "kind": "final",
+    "path": "models/support_vector_regressor/final_svr_PS_UV.joblib",
+    "exists": true,
+    "size_bytes": 123689,
+    "params": {
+      "svr__gamma": 0.01,
+      "svr__epsilon": 0.1,
+      "svr__C": 1000
+    }
+  },
+  {
+    "model": "SVR",
+    "task": "TPS_UG",
+    "kind": "best",
+    "path": "models/support_vector_regressor/best_svr_TPS_UG.joblib",
+    "exists": true,
+    "size_bytes": 39164,
+    "params": {
+      "svr__gamma": 0.001,
+      "svr__epsilon": 0.2,
+      "svr__C": 100
+    }
+  },
+  {
+    "model": "SVR",
+    "task": "TPS_UG",
+    "kind": "final",
+    "path": "models/support_vector_regressor/final_svr_TPS_UG.joblib",
+    "exists": true,
+    "size_bytes": 47242,
+    "params": {
+      "svr__gamma": 0.001,
+      "svr__epsilon": 0.2,
+      "svr__C": 100
+    }
+  },
+  {
+    "model": "SVR",
+    "task": "TPS_UV",
+    "kind": "best",
+    "path": "models/support_vector_regressor/best_svr_TPS_UV.joblib",
+    "exists": true,
+    "size_bytes": 102236,
+    "params": {
+      "svr__gamma": 0.1,
+      "svr__epsilon": 0.1,
+      "svr__C": 100
+    }
+  },
+  {
+    "model": "SVR",
+    "task": "TPS_UV",
+    "kind": "final",
+    "path": "models/support_vector_regressor/final_svr_TPS_UV.joblib",
+    "exists": true,
+    "size_bytes": 126462,
+    "params": {
+      "svr__gamma": 0.1,
+      "svr__epsilon": 0.1,
+      "svr__C": 100
+    }
+  },
+  {
+    "model": "LGBM",
+    "task": "PS_UG",
+    "kind": "best",
+    "path": "models/lightgbm/best_lgbm_PS_UG.joblib",
+    "exists": false,
+    "size_bytes": null,
+    "params_source": "original notebook output; not generated because lightgbm is not installed in active environment"
+  },
+  {
+    "model": "LGBM",
+    "task": "PS_UG",
+    "kind": "final",
+    "path": "models/lightgbm/final_lgbm_PS_UG.joblib",
+    "exists": false,
+    "size_bytes": null,
+    "params_source": "original notebook output; not generated because lightgbm is not installed in active environment"
+  },
+  {
+    "model": "LGBM",
+    "task": "PS_UV",
+    "kind": "best",
+    "path": "models/lightgbm/best_lgbm_PS_UV.joblib",
+    "exists": false,
+    "size_bytes": null,
+    "params_source": "original notebook output; not generated because lightgbm is not installed in active environment"
+  },
+  {
+    "model": "LGBM",
+    "task": "PS_UV",
+    "kind": "final",
+    "path": "models/lightgbm/final_lgbm_PS_UV.joblib",
+    "exists": false,
+    "size_bytes": null,
+    "params_source": "original notebook output; not generated because lightgbm is not installed in active environment"
+  },
+  {
+    "model": "LGBM",
+    "task": "TPS_UG",
+    "kind": "best",
+    "path": "models/lightgbm/best_lgbm_TPS_UG.joblib",
+    "exists": false,
+    "size_bytes": null,
+    "params_source": "original notebook output; not generated because lightgbm is not installed in active environment"
+  },
+  {
+    "model": "LGBM",
+    "task": "TPS_UG",
+    "kind": "final",
+    "path": "models/lightgbm/final_lgbm_TPS_UG.joblib",
+    "exists": false,
+    "size_bytes": null,
+    "params_source": "original notebook output; not generated because lightgbm is not installed in active environment"
+  },
+  {
+    "model": "LGBM",
+    "task": "TPS_UV",
+    "kind": "best",
+    "path": "models/lightgbm/best_lgbm_TPS_UV.joblib",
+    "exists": false,
+    "size_bytes": null,
+    "params_source": "original notebook output; not generated because lightgbm is not installed in active environment"
+  },
+  {
+    "model": "LGBM",
+    "task": "TPS_UV",
+    "kind": "final",
+    "path": "models/lightgbm/final_lgbm_TPS_UV.joblib",
+    "exists": false,
+    "size_bytes": null,
+    "params_source": "original notebook output; not generated because lightgbm is not installed in active environment"
+  }
+]

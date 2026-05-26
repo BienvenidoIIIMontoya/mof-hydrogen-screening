@@ -1,0 +1,23 @@
+benchmarkable MOFs: 3
+excluded due to HyMARC N/A: 3
+skipped due to missing mine values (non-HyMARC issue): 0
+
+mean absolute % error (UG_PS): 143.486235
+mean absolute % error (UV_PS): 248.327732
+mean absolute % error (UG_TPS): 28.123452
+mean absolute % error (UV_TPS): 116.385884
+
+median absolute % error (UG_PS): 143.486235
+median absolute % error (UV_PS): 285.210000
+median absolute % error (UG_TPS): 28.123452
+median absolute % error (UV_TPS): 22.364869
+
+Explicit dataset search (raw ps.csv/tps.csv presence check):
+- VAGMAT in ps.csv: present with values
+- VAGMAT in tps.csv: present with values
+- XAFFIV in ps.csv: present with values
+- XAFFIV in tps.csv: present with values
+- XAFFAN in ps.csv: present with values
+- XAFFAN in tps.csv: present with values
+
+Note: XAFFIV and XAFFAN are intentionally forced to HyMARC N/A in the benchmark/top-3 verification logic per user-specified benchmark policy, even if raw ps.csv/tps.csv contain rows.

@@ -1,0 +1,8 @@
+Scope and Limitations Patch (benchmark coverage and corrected reporting)
+
+- Benchmark comparisons in this thesis are limited to MOFs that are present in the true overlap with the HyMARC GCMC benchmark dataset and have actual benchmark values available.
+- ML-selected top candidates may be absent from benchmark datasets (as in the case of XAFFAN and XAFFIV); these entries must be treated as benchmark N/A rather than benchmark mismatches.
+- Benchmark error statistics are therefore computed only on true overlap MOFs and must exclude benchmark-N/A candidates.
+- Benchmark absence does not invalidate a candidate's relevance; such candidates require independent GCMC validation using the author's own simulations.
+- Final usable capacities reported in this thesis use corrected values derived from mol/kg outputs. This replaces legacy mg/g values that were affected by a resolved H_h2 mass-conversion issue in earlier outputs.
+- Any comparison between ML predictions and simulation results should clearly state whether the simulation values are used for benchmark comparison (overlap MOFs) or for independent validation (benchmark-absent candidates).

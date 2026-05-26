@@ -1,0 +1,21 @@
+{
+  "task": "TPS_UV",
+  "model": "LGBM",
+  "target_column": "uv_at_tps",
+  "random_state": 42,
+  "test_size": 0.25,
+  "shuffle": true,
+  "feature_columns": [
+    "Density",
+    "PV",
+    "GSA",
+    "VSA",
+    "VF",
+    "PLD",
+    "LCD"
+  ],
+  "source_rows_after_dropna": 4613,
+  "n_train": 3459,
+  "n_test": 1154,
+  "indices_csv": "TPS_UV_lgbm_split_indices.csv"
+}

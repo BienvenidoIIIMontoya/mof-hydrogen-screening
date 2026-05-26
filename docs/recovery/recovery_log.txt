@@ -1,0 +1,18 @@
+Recovery log - 2026-05-14
+Source inspected read-only: E:\WSLBackup\Ubuntu-ext4.vhdx
+Original WSL disk under C:\Users\bienv\AppData\Local\wsl was not accessed.
+Windows Mount-VHD unavailable.
+WSL mount path unavailable because WSL2 cannot start: virtualization is not enabled.
+bsdtar could not read the VHDX: unrecognized archive format.
+Used local Python read-only VHDX + ext4 parser; no mount, no source writes.
+Scanned 93,344 filesystem entries.
+Initial journal/diary keyword scan found no personal journal paths under /home; after clarification, recovered RASPA/MOF/GCMC folders.
+Recovered roots:
+  /home/bienv/RASPA: 314 files, 62900868 bytes
+  /home/bienv/RASPA2: 1582 files, 405045514 bytes
+  /home/bienv/RASPA_H2FIX: 1 files, 2122 bytes
+  /home/bienv/raspa_runs: 1089 files, 74078835 bytes
+Total recovered regular files from RASPA roots: 2986 files, 542027339 bytes
+Six Linux filenames contained a colon; visible sanitized copies were added under _windows_filename_fixes.
+Full file mapping: recovered_file_list.tsv and recovery_manifest.json
+Destination root: E:\RecoveredJournal\RASPA_recovery_20260514

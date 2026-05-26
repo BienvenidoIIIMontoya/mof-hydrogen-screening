@@ -1,0 +1,25 @@
+SimulationType                MonteCarlo
+Ensemble                      GCMC
+NumberOfCycles                500000
+NumberOfInitializationCycles  50000
+PrintEvery                    5000
+PrintPropertiesEvery          5000
+
+ForceField                    Generic
+UseChargesFromCIFFile         no
+
+Framework 0
+FrameworkName                 CAXPIC_clean
+UnitCells                     1 1 1
+
+ExternalTemperature           160.0
+ExternalPressure              500000
+
+MoleculeDefinitions           ExampleDefinitions
+
+Component 0 MoleculeName               hydrogen
+            MoleculeDefinition         ExampleDefinitions
+            MolFraction                1.0
+            TranslationProbability     1.0
+            RotationProbability        1.0
+            SwapProbability            1.0

@@ -1,0 +1,7 @@
+Revised Objectives (validation logic clarified)
+
+1. To develop and apply a random-forest screening workflow using seven structural descriptors (Density, GSA, VSA, VF, PV, LCD, and PLD) to rank MOFs for hydrogen storage performance under the selected operating conditions.
+2. To evaluate benchmark agreement only for MOFs that are present in the true overlap between the study set and the HyMARC GCMC benchmark dataset.
+3. To perform independent GCMC validation for ML-selected candidate MOFs that are absent from the HyMARC benchmark dataset (e.g., XAFFAN and XAFFIV), rather than misclassifying them as benchmark comparison failures.
+4. To report final usable capacities using corrected mol/kg-derived values after resolving the legacy H_h2 mass-conversion issue in earlier mg/g outputs.
+5. To integrate ML ranking, benchmark comparison (where available), and independent corrected GCMC validation into a consistent discovery-to-validation workflow.

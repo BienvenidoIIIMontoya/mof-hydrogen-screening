@@ -1,0 +1,21 @@
+{
+  "task": "PS_UV",
+  "model": "KNN",
+  "target_column": "UV at PS",
+  "random_state": 42,
+  "test_size": 0.25,
+  "shuffle": true,
+  "feature_columns": [
+    "Density",
+    "PV",
+    "GSA",
+    "VSA",
+    "VF",
+    "PLD",
+    "LCD"
+  ],
+  "source_rows_after_dropna": 4613,
+  "n_train": 3459,
+  "n_test": 1154,
+  "indices_csv": "PS_UV_knn_split_indices.csv"
+}

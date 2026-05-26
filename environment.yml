@@ -1,0 +1,20 @@
+name: mof-h2-screening
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - joblib
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - lightgbm
+  - shap
+  - mapie
+  - openpyxl
+  - pip
