@@ -620,71 +620,151 @@
     "task": "PS_UG",
     "kind": "best",
     "path": "models/lightgbm/best_lgbm_PS_UG.joblib",
-    "exists": false,
-    "size_bytes": null,
-    "params_source": "original notebook output; not generated because lightgbm is not installed in active environment"
+    "exists": true,
+    "size_bytes": 718476,
+    "params": {
+      "subsample": 0.6,
+      "reg_lambda": 0.0,
+      "reg_alpha": 0.0,
+      "num_leaves": 50,
+      "n_estimators": 800,
+      "min_child_samples": 5,
+      "max_depth": 8,
+      "learning_rate": 0.05,
+      "colsample_bytree": 0.6
+    }
   },
   {
     "model": "LGBM",
     "task": "PS_UG",
     "kind": "final",
     "path": "models/lightgbm/final_lgbm_PS_UG.joblib",
-    "exists": false,
-    "size_bytes": null,
-    "params_source": "original notebook output; not generated because lightgbm is not installed in active environment"
+    "exists": true,
+    "size_bytes": 863138,
+    "params": {
+      "subsample": 0.6,
+      "reg_lambda": 0.0,
+      "reg_alpha": 0.0,
+      "num_leaves": 50,
+      "n_estimators": 800,
+      "min_child_samples": 5,
+      "max_depth": 8,
+      "learning_rate": 0.05,
+      "colsample_bytree": 0.6
+    }
   },
   {
     "model": "LGBM",
     "task": "PS_UV",
     "kind": "best",
     "path": "models/lightgbm/best_lgbm_PS_UV.joblib",
-    "exists": false,
-    "size_bytes": null,
-    "params_source": "original notebook output; not generated because lightgbm is not installed in active environment"
+    "exists": true,
+    "size_bytes": 252522,
+    "params": {
+      "subsample": 0.8,
+      "reg_lambda": 0.01,
+      "reg_alpha": 0.01,
+      "num_leaves": 80,
+      "n_estimators": 200,
+      "min_child_samples": 20,
+      "max_depth": 8,
+      "learning_rate": 0.05,
+      "colsample_bytree": 0.8
+    }
   },
   {
     "model": "LGBM",
     "task": "PS_UV",
     "kind": "final",
     "path": "models/lightgbm/final_lgbm_PS_UV.joblib",
-    "exists": false,
-    "size_bytes": null,
-    "params_source": "original notebook output; not generated because lightgbm is not installed in active environment"
+    "exists": true,
+    "size_bytes": 291490,
+    "params": {
+      "subsample": 0.8,
+      "reg_lambda": 0.01,
+      "reg_alpha": 0.01,
+      "num_leaves": 80,
+      "n_estimators": 200,
+      "min_child_samples": 20,
+      "max_depth": 8,
+      "learning_rate": 0.05,
+      "colsample_bytree": 0.8
+    }
   },
   {
     "model": "LGBM",
     "task": "TPS_UG",
     "kind": "best",
     "path": "models/lightgbm/best_lgbm_TPS_UG.joblib",
-    "exists": false,
-    "size_bytes": null,
-    "params_source": "original notebook output; not generated because lightgbm is not installed in active environment"
+    "exists": true,
+    "size_bytes": 827365,
+    "params": {
+      "subsample": 0.6,
+      "reg_lambda": 0.0,
+      "reg_alpha": 0.0,
+      "num_leaves": 50,
+      "n_estimators": 800,
+      "min_child_samples": 5,
+      "max_depth": 8,
+      "learning_rate": 0.05,
+      "colsample_bytree": 0.6
+    }
   },
   {
     "model": "LGBM",
     "task": "TPS_UG",
     "kind": "final",
     "path": "models/lightgbm/final_lgbm_TPS_UG.joblib",
-    "exists": false,
-    "size_bytes": null,
-    "params_source": "original notebook output; not generated because lightgbm is not installed in active environment"
+    "exists": true,
+    "size_bytes": 878139,
+    "params": {
+      "subsample": 0.6,
+      "reg_lambda": 0.0,
+      "reg_alpha": 0.0,
+      "num_leaves": 50,
+      "n_estimators": 800,
+      "min_child_samples": 5,
+      "max_depth": 8,
+      "learning_rate": 0.05,
+      "colsample_bytree": 0.6
+    }
   },
   {
     "model": "LGBM",
     "task": "TPS_UV",
     "kind": "best",
     "path": "models/lightgbm/best_lgbm_TPS_UV.joblib",
-    "exists": false,
-    "size_bytes": null,
-    "params_source": "original notebook output; not generated because lightgbm is not installed in active environment"
+    "exists": true,
+    "size_bytes": 1147972,
+    "params": {
+      "subsample": 0.6,
+      "reg_lambda": 0.0,
+      "reg_alpha": 0.0,
+      "num_leaves": 50,
+      "n_estimators": 800,
+      "min_child_samples": 5,
+      "max_depth": 8,
+      "learning_rate": 0.05,
+      "colsample_bytree": 0.6
+    }
   },
   {
     "model": "LGBM",
     "task": "TPS_UV",
     "kind": "final",
     "path": "models/lightgbm/final_lgbm_TPS_UV.joblib",
-    "exists": false,
-    "size_bytes": null,
-    "params_source": "original notebook output; not generated because lightgbm is not installed in active environment"
+    "exists": true,
+    "size_bytes": 1253105,
+    "params": {
+      "subsample": 0.6,
+      "reg_lambda": 0.0,
+      "reg_alpha": 0.0,
+      "num_leaves": 50,
+      "n_estimators": 800,
+      "min_child_samples": 5,
+      "max_depth": 8,
+      "learning_rate": 0.05,
+      "colsample_bytree": 0.6
+    }
   }
 ]

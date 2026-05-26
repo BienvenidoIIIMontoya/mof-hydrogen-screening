@@ -24,6 +24,11 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 from sklearn.svm import SVR
 
+try:
+    from lightgbm import LGBMRegressor
+except ImportError:
+    LGBMRegressor = None
+
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 FEATURE_COLS = ["Density", "PV", "GSA", "VSA", "VF", "PLD", "LCD"]
@@ -40,6 +45,7 @@ MODEL_SLUGS = [
     "random_forest",
     "extra_trees",
     "hist_gradient_boosting",
+    "lightgbm",
     "knn",
     "support_vector_regressor",
 ]
@@ -72,6 +78,11 @@ def make_model(slug: str, params: dict):
         params.pop("scoring", None)
         params.update({"random_state": RANDOM_STATE})
         return HistGradientBoostingRegressor(**params)
+    if slug == "lightgbm":
+        if LGBMRegressor is None:
+            raise ImportError("Install lightgbm before rebuilding LightGBM artifacts.")
+        params.update({"random_state": RANDOM_STATE, "n_jobs": -1, "verbosity": -1})
+        return LGBMRegressor(**params)
     if slug == "knn":
         model = Pipeline([("scaler", StandardScaler()), ("knn", KNeighborsRegressor(n_jobs=-1))])
         model.set_params(**params)
@@ -120,22 +131,6 @@ def main() -> None:
                         "params": params,
                     }
                 )
-
-    for task in ["PS_UG", "PS_UV", "TPS_UG", "TPS_UV"]:
-        for kind in ["best", "final"]:
-            rel_path = f"models/lightgbm/{kind}_lgbm_{task}.joblib"
-            path = PROJECT_ROOT / rel_path
-            manifest.append(
-                {
-                    "model": "LGBM",
-                    "task": task,
-                    "kind": kind,
-                    "path": rel_path,
-                    "exists": path.exists(),
-                    "size_bytes": path.stat().st_size if path.exists() else None,
-                    "params_source": "Original notebook output; rebuild with notebooks/04_lightgbm.ipynb after installing lightgbm.",
-                }
-            )
 
     (PROJECT_ROOT / "models" / "model_manifest.json").write_text(
         json.dumps(manifest, indent=2), encoding="utf-8"

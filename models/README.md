@@ -9,7 +9,6 @@ Saved `.joblib` artifacts are present for:
 - Random Forest
 - Extra Trees
 - HistGradientBoosting
+- LightGBM
 - KNN
 - SVR
-
-LightGBM artifacts are still missing because `lightgbm` was not installed in the active local Python environment during packaging. Recreate the environment from `environment.yml` and run `notebooks/04_lightgbm.ipynb` to generate them.

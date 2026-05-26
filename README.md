@@ -66,11 +66,10 @@ bash run.sh
 
 ## Current Known Gap
 
-No pre-existing saved trained model files (`.joblib`, `.pkl`, `.sav`) were found in the scanned source folders or nearby local Downloads/Documents assets. During packaging, saved `.joblib` artifacts were rebuilt for the scikit-learn models from the recovered best hyperparameters and saved split indices. LightGBM remains the only missing model family because `lightgbm` was not installed in the active local Python environment.
+No pre-existing saved trained model files (`.joblib`, `.pkl`, `.sav`) were found in the scanned source folders or nearby local Downloads/Documents assets. During packaging, saved `.joblib` artifacts were rebuilt for all six model families from the recovered best hyperparameters and saved split indices.
 
 ## Release Checklist
 
-1. Install/create the environment and run `notebooks/04_lightgbm.ipynb` to generate the remaining LightGBM `.joblib` files.
-2. Rerun any notebooks needed for final publication figures.
-3. Review `manifests/handoff_checklist.json`.
-4. Commit the repo and tag a release, for example `v0.1.0-handoff`.
+1. Rerun any notebooks needed for final publication figures.
+2. Review `manifests/handoff_checklist.json`.
+3. Commit the repo and tag a release, for example `v0.1.0-handoff`.

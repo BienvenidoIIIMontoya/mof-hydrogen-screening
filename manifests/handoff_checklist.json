@@ -4,9 +4,9 @@
     "path": "data/descriptors/mof_descriptors_12986.csv"
   },
   "saved_trained_models": {
-    "status": "partial_present",
+    "status": "present",
     "path": "models/model_manifest.json",
-    "note": "RF, ERT, HGB, KNN, and SVR .joblib artifacts are present. LightGBM artifacts remain pending until lightgbm is installed and notebooks/04_lightgbm.ipynb is run."
+    "note": "RF, ERT, HGB, LGBM, KNN, and SVR .joblib artifacts are present."
   },
   "train_test_split_indices": {
     "status": "present",

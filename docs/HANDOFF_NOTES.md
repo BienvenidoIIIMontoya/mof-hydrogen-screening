@@ -22,9 +22,9 @@
 
 ## Missing Or Blocked Items
 
-- Saved trained `.joblib` model files were not present in the scanned source folders or nearby local Downloads/Documents files. RF, ERT, HGB, KNN, and SVR artifacts were rebuilt from recovered notebook best-parameter outputs; LightGBM remains pending until `lightgbm` is installed.
+- Saved trained `.joblib` model files were not present in the scanned source folders or nearby local Downloads/Documents files. RF, ERT, HGB, LGBM, KNN, and SVR artifacts were rebuilt from recovered notebook best-parameter outputs.
 - The exact original file named `tps_usable_hydrogen_storage_capacity_gcmcv2_REAL_cleaned.csv` was not found. The packaged TPS source is `balanced_tps_canonical.csv`, which contains canonical descriptor columns and TPS target columns.
-- `lightgbm`, `shap`, `mapie`, `nbformat`, and `nbclient` were not installed in the active local Python environment during packaging. They are included in `environment.yml`.
+- `shap`, `mapie`, `nbformat`, and `nbclient` were not installed in the active local Python environment during packaging. They are included in `environment.yml`.
 
 ## Hardcoded Path Audit
 
