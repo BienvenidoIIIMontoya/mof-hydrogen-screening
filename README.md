@@ -1,6 +1,6 @@
 # MOF Hydrogen Screening Handoff
 
-Publication-ready handoff repository for Bienvenido P. Montoya III's MOF hydrogen storage screening project. The repository packages the machine-learning notebooks, the 12,986-MOF descriptor/ranking table, reproducibility split indices, and curated RASPA/GCMC inputs and outputs requested for journal handoff.
+Bienvenido P. Montoya III's MOF hydrogen storage screening project. The repository packages the machine-learning notebooks, the 12,986-MOF descriptor/ranking table, reproducibility split indices, and curated RASPA/GCMC inputs and outputs requested for journal handoff.
 
 ## Repository Layout
 
